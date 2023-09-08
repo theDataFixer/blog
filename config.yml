@@ -1,4 +1,71 @@
-baseURL: "https://theDataFixer.github.io/blog/" 
+baseURL: "https://thedatafixer.github.io/blog/"
 languageCode: en-us
-title: My New Hugo Site
+title: The Data Fixer 
 theme: PaperMod
+paginate: 10 
+
+enableRobotsTXT: true
+enableEmoji: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+  author: Omar Valdez
+  description: "#dataengineering #datainfra #datascience #bigdata"
+  keywords: [blog, portfolio, theDataFixer, papermod]
+  homeInfoParams:
+    Title: "[~] $ whoami"
+    Content: >
+      - My purpose is to share my knowledge with the community interested in the fascinating world of data, and my goal is to cover the entire ecosystem of the data lifecycle, from architecture to analysis.
+     
+      -
+      
+      - Through tutorials, practical tips, personal reflections, and case studies, this place will be a valuable resource for all data enthusiasts, whether for a curious beginner or an expert in search of new perspectives.
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/theDataFixer" 
+    - name: "youtube"
+      url: "https://youtube.com/@theDataFixer"
+    - name: "telegram"
+      url: "https://t.me/theDataFixer"
+    # - name: "rss"
+      # url: "https://valdezdata.com/index.xml"
+    # - name: "email"
+      # url: "mailto:info@valdezdata.com"
+  
+  assets:
+    favicon: "/favicon/favicon.ico"
+    favicon16x16: "/favicon/favicon-16x16.png"
+    favicon32x32: "/favicon/favicon-32x32.png"
+    apple_touch_icon: "/favicon/apple-touch-icon.png"
+    safari_pinned_tab: "/favicon/favicon-16x16.png"
+
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  UseHugoToc: false
+  showtoc: true
+  tocopen: false
+  hideSummary: false
+  comments: true
+
+menu:
+  main:
+    - name: Tags
+      url: /tags/
+      weight: 5 
+    - name: Archive
+      url: /archive/
+      weight: 5
+    - name: 🔍 
+      url: /search/
+      weight: 10 
