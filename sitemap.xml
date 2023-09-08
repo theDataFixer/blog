@@ -2,17 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theDataFixer.github.io/blog/</loc>
-    <lastmod>2023-09-08T14:01:57-07:00</lastmod>
+    <loc>https://thedatafixer.github.io/blog/posts/01-my-first-post/</loc>
+    <lastmod>2023-08-07T07:18:02-07:00</lastmod>
   </url><url>
-    <loc>https://theDataFixer.github.io/blog/posts/</loc>
-    <lastmod>2023-09-08T14:01:57-07:00</lastmod>
+    <loc>https://thedatafixer.github.io/blog/tags/introduction/</loc>
+    <lastmod>2023-08-07T07:18:02-07:00</lastmod>
   </url><url>
-    <loc>https://theDataFixer.github.io/blog/posts/test/</loc>
-    <lastmod>2023-09-08T14:01:57-07:00</lastmod>
+    <loc>https://thedatafixer.github.io/blog/posts/</loc>
+    <lastmod>2023-08-07T07:18:02-07:00</lastmod>
   </url><url>
-    <loc>https://theDataFixer.github.io/blog/categories/</loc>
+    <loc>https://thedatafixer.github.io/blog/tags/</loc>
+    <lastmod>2023-08-07T07:18:02-07:00</lastmod>
   </url><url>
-    <loc>https://theDataFixer.github.io/blog/tags/</loc>
+    <loc>https://thedatafixer.github.io/blog/</loc>
+    <lastmod>2023-08-07T07:18:02-07:00</lastmod>
+  </url><url>
+    <loc>https://thedatafixer.github.io/blog/archive/</loc>
+  </url><url>
+    <loc>https://thedatafixer.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>https://thedatafixer.github.io/blog/search/</loc>
   </url>
 </urlset>
