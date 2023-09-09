@@ -32,12 +32,21 @@ params:
       url: "https://github.com/theDataFixer" 
     - name: "youtube"
       url: "https://youtube.com/@theDataFixer"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/thedatafixer/"
+    - name: "mastodon"
+      url: "https://mastodon.social/@theDataFixer"
     - name: "telegram"
       url: "https://t.me/theDataFixer"
-    # - name: "rss"
-      # url: "https://valdezdata.com/index.xml"
-    # - name: "email"
-      # url: "mailto:info@valdezdata.com"
+    - name: "discord"
+      url: "https://discordapp.com/users/thedatafixer"
+    - name: "rss"
+      url: "https://thedatafixer.xyz/index.xml"
+    - name: "email"
+      url: "mailto:info@thedatafixer.xyz"
+    
+    
+    
   
   assets:
     favicon: "/favicon/favicon.ico"
