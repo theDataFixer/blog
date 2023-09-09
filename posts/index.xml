@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on The Data Fixer</title>
-    <link>https://thedatafixer.github.io/blog/posts/</link>
+    <link>https://thedatafixer.xyz/posts/</link>
     <description>Recent content in Posts on The Data Fixer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Aug 2023 07:18:02 -0700</lastBuildDate><atom:link href="https://thedatafixer.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 07:18:02 -0700</lastBuildDate><atom:link href="https://thedatafixer.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>https://thedatafixer.github.io/blog/posts/01-my-first-post/</link>
+      <link>https://thedatafixer.xyz/posts/01-my-first-post/</link>
       <pubDate>Mon, 07 Aug 2023 07:18:02 -0700</pubDate>
       
-      <guid>https://thedatafixer.github.io/blog/posts/01-my-first-post/</guid>
+      <guid>https://thedatafixer.xyz/posts/01-my-first-post/</guid>
       <description>The Data Fixer introduction</description>
     </item>
     
