@@ -32,8 +32,6 @@ params:
       url: "https://github.com/theDataFixer" 
     - name: "youtube"
       url: "https://youtube.com/@theDataFixer"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/thedatafixer/"
     - name: "mastodon"
       url: "https://mastodon.social/@theDataFixer"
     - name: "telegram"
