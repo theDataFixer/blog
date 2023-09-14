@@ -18,15 +18,27 @@ params:
   author: Omar Valdez
   description: "#dataengineering #datainfra #datascience #bigdata"
   keywords: [blog, portfolio, theDataFixer, papermod]
-  homeInfoParams:
-    Title: "[~] $ whoami"
-    Content: >
-      - My purpose is to share my knowledge with the community interested in the fascinating world of data, and my goal is to cover the entire ecosystem of the data lifecycle, from architecture to analysis.
-     
-      -
-      
-      - Through tutorials, practical tips, personal reflections, and case studies, this place will be a valuable resource for all data enthusiasts, whether for a curious beginner or an expert in search of new perspectives.
 
+  label:
+    icon: "/favicon/favicon.ico"
+    iconHeight: 35
+
+  profileMode:
+    enabled: true
+    title: The Data Fixer
+    subtitle: Unlocking the Power of Data
+    imageURL: terrariaMaker.png
+    imageWidth: 130
+    imageHeight: 120
+    imageTitle: https://demize.gg/TerrariaMaker/
+    buttons:
+      - name: About Me
+        url: aboutme
+      - name: Search
+        url: search
+      - name: Posts
+        url: posts
+ 
   socialIcons:
     - name: "github"
       url: "https://github.com/theDataFixer" 
@@ -45,8 +57,6 @@ params:
     - name: "email"
       url: "mailto:info@thedatafixer.xyz"
     
-    
-    
   
   assets:
     favicon: "/favicon/favicon.ico"
@@ -63,7 +73,7 @@ params:
   ShowWordCount: true
   UseHugoToc: false
   showtoc: true
-  tocopen: false
+  tocopen: true
   hideSummary: false
   comments: true
 

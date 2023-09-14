@@ -5,6 +5,8 @@ summary: The Data Fixer introduction
 tags: ["introduction"]
 tocopen: true
 draft: false
+cover:
+    image: helloworld.jpg
 ---
 
 ## Introduction
