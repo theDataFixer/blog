@@ -9,11 +9,22 @@
     <lastBuildDate>Fri, 08 Sep 2023 07:18:02 -0700</lastBuildDate><atom:link href="https://thedatafixer.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>https://thedatafixer.xyz/posts/01-my-first-post/</link>
+      <link>https://thedatafixer.xyz/posts/hello_world/01-my-first-post/</link>
       <pubDate>Fri, 08 Sep 2023 07:18:02 -0700</pubDate>
       
-      <guid>https://thedatafixer.xyz/posts/01-my-first-post/</guid>
+      <guid>https://thedatafixer.xyz/posts/hello_world/01-my-first-post/</guid>
       <description>The Data Fixer introduction</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://thedatafixer.xyz/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedatafixer.xyz/aboutme/</guid>
+      <description>[~] $ whoami I&amp;rsquo;m Omar Valdez.
+My purpose is to share my knowledge with the community interested in the fascinating world of data, and my goal is to cover the entire ecosystem of the data lifecycle, from architecture to analysis.
+Through tutorials, practical tips, personal reflections, and case studies, this place will be a valuable resource for all data enthusiasts, whether for a curious beginner or an expert in search of new perspectives.</description>
     </item>
     
     
