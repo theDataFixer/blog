@@ -10,26 +10,26 @@ cover:
 
 ## [~] $ whoami
 
-I'm Omar Valdez.
+Soy Omar Valdez.
 
-My purpose is to share my knowledge with the community interested in the fascinating world of data, and my goal is to cover the entire ecosystem of the data lifecycle, from architecture to analysis.
+Mi propósito es compartir mi conocimiento con la comunidad interesada en el fascinante mundo de los datos, y mi objetivo es abarcar todo el ecosistema del ciclo de vida de los datos, desde la arquitectura hasta el análisis.
 
-Through tutorials, practical tips, personal reflections, and case studies, this place will be a valuable resource for all data enthusiasts, whether for a curious beginner or an expert in search of new perspectives.
+Por medio de tutoriales, consejos prácticos, reflexiones personales y estudios de caso, este lugar será un recurso valioso para todos los entusiastas de datos, ya sea un principiante curioso o un experto en busca de nuevas perspectivas.
 
-- I've worn many hats in the data universe: Data Analyst, Business Intelligence Analyst, Data Sciencist, Data Engineer, and Data Architect.
-- One of my primary goals is to make the complex world of data accessible to everyone interested in this topic.
-- Data should empower, not intimidate, and I'm here to bridge that gap.
+- He desempeñado muchos roles en el universo de los datos: Analista de Datos, Analista de Business Intelligence, Científico de Datos, Ingeniero de Datos, y Arquitecto de Datos.
+- Una de mis metas principales es guiar aquellos que ya están inmersos en el mundo de los datos, pero desean profundizar en su comprensión, en su influencia, y sobre todo en su potencial.
+- Los datos deben empoderar, no intimidar, y estoy aquí para cerrar esa brecha.
 
 ### Avatar
 
-You might be wondering about my avatar. Basically it's a metaphorical representation of my approach to data:
+Quizás te estés preguntando acerca de mi avatar. Básicamente, es una representación metafórica de mi enfoque hacia los datos:
 
-- Pixelated: Just as pixels are the building blocks of a digital image, raw data forms the foundation of our digital landscape. Technically, it's the unrefined, unprocesed information waiting to be transformed.
-- Plumber: Like a plumber who works to fix and mantain plumbing systems of a building, my thinking is to dive deep into the data pipelines, unclogging bottlenecks, and ensuring the data flow.
-- Game-like aesthetic: Just as games encourage exploration, creativity, and problem solving, I approach data with a sense of curiosity and a desire to make it accessible and engaging for all.
+- Pixelado: Al igual que los píxeles son los bloques de construcción de una imagen digital, los datos crudos forman la base de nuestro paisaje digital. Técnicamente, son la información no refinada, no procesada, que espera ser transformada.
+- Fontanero: Al igual que un fontanero que trabaja para reparar y mantener los sistemas de fontanería de un edificio, mi pensamiento es sumergirme profundamente en las tuberías de datos, desatascar cuellos de botella y asegurar el flujo de datos.
+- Estética de videojuego: Al igual que los juegos fomentan la exploración, la creatividad y la resolución de problemas, abordo los datos con un sentido de curiosidad y el deseo de hacerlos accesibles y atractivos para todos.
 
 &nbsp;
 
-Avatar made in: https://demize.gg/TerrariaMaker/
+Avatar creado en: https://demize.gg/TerrariaMaker/
 
-Contact: **info@thedatafixer.xyz**
+Contacto: **info@thedatafixer.xyz**

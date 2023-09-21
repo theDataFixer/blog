@@ -26,7 +26,7 @@ params:
   profileMode:
     enabled: true
     title: The Data Fixer
-    subtitle: Unlocking the Power of Data
+    subtitle: Desbloqueando el Potencial de los Datos
     imageURL: terrariaMaker.png
     imageWidth: 130
     imageHeight: 120
@@ -44,14 +44,10 @@ params:
       url: "https://github.com/theDataFixer" 
     - name: "youtube"
       url: "https://youtube.com/@theDataFixer"
-    - name: "mastodon"
-      url: "https://mastodon.social/@theDataFixer"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/omarvaldez5/"
     - name: "telegram"
       url: "https://t.me/theDataFixer"
-    - name: "discord"
-      url: "https://discordapp.com/users/thedatafixer"
     - name: "rss"
       url: "https://thedatafixer.xyz/index.xml"
     - name: "email"
