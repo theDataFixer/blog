@@ -2,7 +2,7 @@ baseURL: "https://thedatafixer.xyz/"
 languageCode: en-us
 title: The Data Fixer 
 theme: PaperMod
-paginate: 10 
+paginate: 5
 
 enableRobotsTXT: true
 enableEmoji: true
@@ -32,8 +32,8 @@ params:
     imageHeight: 120
     imageTitle: https://demize.gg/TerrariaMaker/
     buttons:
-      - name: About Me
-        url: aboutme
+      - name: ¿Quién Soy? 
+        url: whoami
       - name: Search
         url: search
       - name: Posts
