@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thedatafixer.xyz/posts/hello_world/01-my-first-post/</loc>
+    <loc>https://thedatafixer.xyz/posts/hello_world/</loc>
     <lastmod>2023-09-08T07:18:02-07:00</lastmod>
   </url><url>
-    <loc>https://thedatafixer.xyz/tags/introduction/</loc>
+    <loc>https://thedatafixer.xyz/tags/intro/</loc>
     <lastmod>2023-09-08T07:18:02-07:00</lastmod>
   </url><url>
     <loc>https://thedatafixer.xyz/posts/</loc>
@@ -17,7 +17,7 @@
     <loc>https://thedatafixer.xyz/</loc>
     <lastmod>2023-09-08T07:18:02-07:00</lastmod>
   </url><url>
-    <loc>https://thedatafixer.xyz/aboutme/</loc>
+    <loc>https://thedatafixer.xyz/whoami/</loc>
   </url><url>
     <loc>https://thedatafixer.xyz/archive/</loc>
   </url><url>
