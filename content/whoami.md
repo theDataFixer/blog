@@ -10,9 +10,9 @@ cover:
 
 Soy Omar Valdez.
 
-Mi propósito es compartir mi conocimiento con la comunidad interesada en el fascinante mundo de los datos, y mi objetivo es abarcar todo el ecosistema del ciclo de vida de los datos, desde la arquitectura hasta el análisis.
+Mi propósito es compartir mi conocimiento con la comunidad interesada en el fascinante mundo de los datos, y mi objetivo es abarcar todo el ecosistema del ciclo de vida de los datos, desde la generación hasta el despliegue. Además, quiero destacar los elementos clave que subyacen en el ciclo de vida de los datos, como la seguridad, la gestión de datos, las operaciones de datos (DataOps), la arquitectura de datos, la orquestación, y la ingeniería de software.
 
-Por medio de tutoriales, consejos prácticos, reflexiones personales y estudios de caso, este lugar será un recurso valioso para todos los entusiastas de datos, ya sea un principiante curioso o un experto en busca de nuevas perspectivas.
+Por medio de tutoriales, consejos prácticos, reflexiones personales y estudios de caso, este lugar será un recurso valioso para todos los entusiastas de datos, ya sea para un principiante curioso o un experto en busca de nuevas perspectivas.
 
 De qué NO hablaré:
 - No me centraré en temas generales. No encontrarás contenido como "5 verdades sobre Python" o "Un día como Ingeniero de Datos/Científico de Datos".
