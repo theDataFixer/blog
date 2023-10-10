@@ -14,9 +14,14 @@ Mi propósito es compartir mi conocimiento con la comunidad interesada en el fas
 
 Por medio de tutoriales, consejos prácticos, reflexiones personales y estudios de caso, este lugar será un recurso valioso para todos los entusiastas de datos, ya sea un principiante curioso o un experto en busca de nuevas perspectivas.
 
-- He desempeñado muchos roles en el universo de los datos: Analista de Datos, Analista de Business Intelligence, Científico de Datos, Ingeniero de Datos, y Arquitecto de Datos.
-- Una de mis metas principales es guiar aquellos que ya están inmersos en el mundo de los datos, pero desean profundizar en su comprensión, en su influencia, y sobre todo en su potencial.
-- Los datos deben empoderar, no intimidar, y estoy aquí para cerrar esa brecha.
+De qué NO hablaré:
+- No me centraré en temas generales. No encontrarás contenido como "5 verdades sobre Python" o "Un día como Ingeniero de Datos/Científico de Datos".
+- No me centraré en noticias. Aunque se pueden discutir tendencias y avances en el campo de los datos, el objetivo principal no es proporcionar noticias diarias o eventos actuales.
+- No me centraré en teoría pura. El objetivo es proporcionar contenido práctico y útil, por lo que evitaré el enfoque excesivamente teórico sin ejemplos concretos o casos de uso.
+
+He desempeñado muchos roles en el universo de los datos: Analista de Datos, Analista de Business Intelligence, Científico de Datos, Ingeniero de Datos, y Arquitecto de Datos. Una de mis metas principales es guiar aquellos que ya están inmersos en el mundo de los datos, pero desean profundizar en su comprensión, en su influencia, y sobre todo en su potencial.
+
+Los datos deben empoderar, no intimidar, y estoy aquí para cerrar esa brecha.
 
 ### Avatar
 
