@@ -27,6 +27,16 @@ Mi propósito es compartir mi conocimiento con la comunidad interesada en el fas
     </item>
     
     
+    <item>
+      <title>Data for Dummies</title>
+      <link>https://thedatafixer.xyz/dataForDummies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedatafixer.xyz/dataForDummies/</guid>
+      <description>Introducción Si alguna vez te has sentido abrumado por términos como Data Lake, metadatos o gobierno de datos, entonces llegaste al lugar correcto. Sé que incluso para un mismo concepto existen diferentes interpretaciones, por lo que mi intención no es definir, sino explicar de forma sencilla la palabra y su designación.
+Si crees que falta agregar algún concepto, o si deseas editar algún término, puedes hacer un comentario al final de esta publicación, o mejor aún hacer un pull request y con gusto lo platicamos: URL</description>
+    </item>
+    
     
   </channel>
 </rss>
