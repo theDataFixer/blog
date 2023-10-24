@@ -80,7 +80,7 @@ menu:
       url: /archive/
       weight: 5
     - name: Data For Dummies
-      url: /dataForDummies/
+      url: /datafordummies/
       weight: 6
     - name: 🔍 
       url: /search/

@@ -1,6 +1,6 @@
 ---
 title: "Data for Dummies"
-url: "/dataForDummies"
+url: "/datafordummies"
 ShowToc: true
 ShowReadingTime: true
 cover:
