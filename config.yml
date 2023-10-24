@@ -34,9 +34,7 @@ params:
     buttons:
       - name: ¿Quién Soy? 
         url: whoami
-      - name: Search
-        url: search
-      - name: Posts
+      - name: Artículos
         url: posts
  
   socialIcons:
@@ -75,12 +73,15 @@ params:
 
 menu:
   main:
-    - name: Tags
+    - name: Etiquetas
       url: /tags/
       weight: 5 
-    - name: Archive
+    - name: Archivo
       url: /archive/
       weight: 5
+    - name: Data For Dummies
+      url: /dataForDummies/
+      weight: 6
     - name: 🔍 
       url: /search/
       weight: 10 
