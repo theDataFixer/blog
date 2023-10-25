@@ -24,17 +24,17 @@ _Si tienes fotos en tu smartphone, abre una foto y puedes ver los metadatos como
 ### **Database**
 Es un sistema de almacén digital que ayuda a organizar y administrar datos.
 
-_El clásico ejemplo es pensar en una biblioteca. Cada libro tiene su etiqueta con su título, autor, etc. En la biblioteca se guardan y organizan libros, pero en lugar de libros, piensa en datos. Al igual que un sistema de archivos, una base de datos ayuda a mantener la información estrucutrada._
+_El clásico ejemplo es pensar en una biblioteca. Cada libro tiene su etiqueta con su título, autor, etc. En la biblioteca se guardan y organizan libros, pero en lugar de libros, piensa en datos. Al igual que un sistema de archivos, una base de datos ayuda a mantener la información estructurada._
 
 
 ### **Structured Data**
-Se refiere a información que está organizada en un formato en específico, haciendolo fácil de entender tanto para los humanos como para las computadoras. Consiste de elementos de datos organizados en filas y columnas, como una tabla.
+Se refiere a información que está organizada en un formato en específico, haciéndolo fácil de entender tanto para los humanos como para las computadoras. Consiste de elementos de datos organizados en filas y columnas, como una tabla.
 
-_Una guía telefónica contiene datos estructurados porque tiene organizado campos específicos como el nombre, el número telefónico, la dirección, y así sucesivamente._
+_Una guía telefónica contiene datos estructurados porque tiene organizados campos específicos como el nombre, el número telefónico, la dirección, y así sucesivamente._
 
 
 ### **Unstructured Data**
-Se refiere a información que no tiene un formato en específico. Por lo general, los datos no estructurados carecen de una estructura predefinida, por lo que los hacen más difíciles de analizar y procesar en comparación con los datos estrucutrados.
+Se refiere a información que no tiene un formato en específico. Por lo general, los datos no estructurados carecen de una estructura predefinida, por lo que los hacen más difíciles de analizar y procesar en comparación con los datos estructurados.
 
 _Imagina una pila de cartas escritas a mano. Cada carta puede contener diferente tipo de información, como historias personales, emociones, u opiniones. Estas cartas no siguen un formato estandarizado y puede variar en longitud, estilo de escritura o idioma. En el mundo digital los correos, las publicaciones de redes sociales, las imágenes, los videos, las grabaciones de audio, y los documentos con texto de formato libre son ejemplos de datos no estructurados._
 
@@ -42,11 +42,11 @@ _Imagina una pila de cartas escritas a mano. Cada carta puede contener diferente
 ### **Semi-structured Data**
 Los datos semiestructurados se encuentran entre los datos estructurados y los datos no estructurados. Posee algo de organización pero no tiene un estricto formato predefinido como los datos estructurados.
 
-_Piensa en una bandeja de entrada de un email. Cada email consiste en elementos estructurados como remitente, destinatario, asunto, y timestamp. No obstante, el cuerpo del email puede contener información no estructurada como texto de formato libre, adjunsot, o estilos de formato diferentes. Esta combinación de estructura y flexibilidad representa datos semiestructurados.
+_Piensa en una bandeja de entrada de un email. Cada email consiste en elementos estructurados como remitente, destinatario, asunto, y timestamp. No obstante, el cuerpo del email puede contener información no estructurada como texto de formato libre, adjuntos, o estilos de formato diferentes. Esta combinación de estructura y flexibilidad representa datos semiestructurados._
 
 
 ### **Duplicate Data**
-Se refiere a tener múltiples copias idénticas o casi idénticas de la misma información dentro de un conjunto de datos o sistema.
+Se refiere a tener múltiples copias idénticas o casi idénticas de la misma información dentro de un conjunto de datos o sistemas.
 
 _Considera el escenario en donde estás administrando tu lista de contactos. En esa lista guardas nombres, teléfonos, y correos de tus amigos. Ahora, digamos que accidentalmente agregar el mismo contacto dos veces, resultando en datos duplicados._
 
@@ -86,7 +86,7 @@ _Imagina que estás por organizar tu fiesta y quieres asegurarte de que haya suf
 ### **Data Maturity**
 Es una forma de evaluar en qué etapa se encuentra una organización en términos de cómo utiliza y gestiona datos.
 
-_Una comañía de retail podría empezar a recolectar datos usando spreadsheets, pero con el tiempo puede mejorar su madurez al centralizar sus datos, integrando diferentes fuentes, y utilizando analítica avanzada para tomar mejores decisiones._
+_Una compañía de retail podría empezar a recolectar datos usando spreadsheets, pero con el tiempo puede mejorar su madurez al centralizar sus datos, integrando diferentes fuentes, y utilizando analítica avanzada para tomar mejores decisiones._
 
 
 ### **Data Contract**
@@ -110,7 +110,7 @@ _En un partido de fútbol, los involucrados son los jugadores y el árbitro, don
 
 
 ### **Data Owner**
-Es alguien que está a cargo de administar y controlar un cojunto específico de datos.
+Es alguien que está a cargo de administrar y controlar un conjunto específico de datos.
 
 _En una organización de atención médica, la propia organización sería la propietaria de los datos, responsable de proteger y gestionar los registros médicos de los pacientes._
 
@@ -118,7 +118,7 @@ _En una organización de atención médica, la propia organización sería la pr
 ### **Data Steward**
 Es alguien que se asegura de la gestión adecuada, calidad, y usabilidad de los datos dentro de una organización.
 
-_En una institución financiera, un equipo o una persona actua como Data Steward para supervisar el cumplimiento normativo y el control de acceso para asegurar que los datos puedan utilizarse de manera efectiva para la toma de decisiones._
+_En una institución financiera, un equipo o una persona actúa como Data Steward para supervisar el cumplimiento normativo y el control de acceso para asegurar que los datos puedan utilizarse de manera efectiva para la toma de decisiones._
 
 
 ### **Data Security**
@@ -154,7 +154,7 @@ _Si quieres tener información del clima de tu ciudad, puedes tener varios punto
 ### **Data Storage**
 Es un lugar centralizado donde se recopila y se combinan datos de múltiples fuentes.
 
-_Es como encontrar un lugar para guardar tus libros en una librería para que después puedas encontrarlos y usarlos cuando lo requieras. En el mundo digital, este concepto involucra usar sistemas o dispositivos para almacenar y recuprar información digital._
+_Es como encontrar un lugar para guardar tus libros en una librería para que después puedas encontrarlos y usarlos cuando lo requieras. En el mundo digital, este concepto involucra usar sistemas o dispositivos para almacenar y recuperar información digital._
 
 
 ### **Data Ingestion**
@@ -172,25 +172,25 @@ _De igual manera cuando ensamblas piezas de rompecabezas de diferentes lugares p
 ### **Data Transformation**
 Es cuando modificas, limpias, o reorganizas los datos para que sean más útiles.
 
-_Imagina que estás en un supermercado en un diferente país al que naciste y vez los precios en una moneda diferente, por lo que tienes que comparar precios y transformarlo en una moneda que te sea más fácil de interpretar._
+_Imagina que estás en un supermercado en un diferente país al que naciste y ves los precios en una moneda diferente, por lo que tienes que comparar precios y transformarlo en una moneda que te sea más fácil de interpretar._
 
 
 ### **Data Serving**
 Es el proceso de hacer los datos accesibles y disponibles para los usuarios o aplicaciones de manera eficiente.
 
-_Piensa que estás en un restaurante y ordenaste un platillo. Los chefs en la cocina prepara la comida, y una vez que está listo, los meseros te sirven el platillo a tu mesa. En el contexto de datos, piensa en los datos como en la "comida" y piensa en los usuarios o aplicaciones como los "clientes"_
+_Piensa que estás en un restaurante y ordenaste un platillo. Los chefs en la cocina preparan la comida, y una vez que está listo, los meseros te sirven el platillo a tu mesa. En el contexto de datos, piensa en los datos como en la "comida" y piensa en los usuarios o aplicaciones como los "clientes"_
 
 ### **Staging Data**
 
 ### **Data Warehouse**
 Es un repositorio centralizado y optimizado para gestionar grandes cantidades de datos de diferentes fuentes. Su enfoque es para análisis y toma de decisiones.
 
-_Eres el gerente de varias tiendas. Tienes datos de ventas, de inventarios, de clientes, y otros datos relacionado a tu negocio. Se vuelve complicado obtener una visión integral de tu negocio y tomar decisiones informadas basadas en datos dispersos. Al crear un Data Warehouse, consolidas y optimizas la información para consultas eficientes, informes, y análisis._
+_Eres el gerente de varias tiendas. Tienes datos de ventas, de inventarios, de clientes, y otros datos relacionados a tu negocio. Se vuelve complicado obtener una visión integral de tu negocio y tomar decisiones informadas basadas en datos dispersos. Al crear un Data Warehouse, consolidas y optimizas la información para consultas eficientes, informes, y análisis._
 
 ### **Data Mart**
 
 ### **Data Lake**
-Es un repositorio que puede recopilar una gran cantidad de datos en bruto que se almacena hasta que se necesiten para procesar o analizar.
+Es un repositorio que puede recopilar una gran cantidad de datos estructurados, semiestructurados y no estructurados que se almacenan hasta que se necesiten para procesar o analizar.
 
 _Te vas de viaje a una playa y tienes varias fotos de donde estuviste. En vez de organizar tus fotos, las mandas a tu Data Lake de Fotos donde van a estar disponibles en su estado original. Cuando ya desees clasificarlos, puedes elegir qué fotos y organizarlas de acuerdo a tus necesidades._
 
