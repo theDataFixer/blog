@@ -10,15 +10,15 @@ Si alguna vez te has sentido abrumado por términos como Data Lake, metadata o D
 Si crees que falta agregar algún concepto, o si deseas editar algún término, puedes hacer un comentario al final de esta publicación, o de igual manera puedes contactarme de la forma que se te haga más fácil.
 
 ### **Data**
-Son hechos, cifras, o información cruda que se recopilan y almacenan para su posterior análisis.
+Son hechos, cifras, o información cruda que se recopilan y almacenan para su posterior análisis. Puede incluir hechos, números, mediciones, observaciones, o cualquier otro detalle que se pueda utilizar para comprender un tema en particular.
 
-_Si estás registrando la temperatura diaria en alguna ciudad durante un mes, entonces cada número anotado es un dato._
+_Si estás registrando la temperatura diaria en alguna ciudad durante un mes, puedes recopilar datos sobre la temperatura, humedad, velocidad del viento, y precipitaciones a lo largo del día. Los datos existen en diversas formas y se pueden encontrar en situaciones cotidianas._
 
 
 ### **Metadata**
-Información sobre los datos. Es el dato de los datos, como su origen, contexto, o significado.
+Son los datos que proporcionan información sobre otros datos. Es el dato de los datos, como su origen, contexto, o significado, y nos ayuda a comprenderlos y gestionarlos de manera más efectiva.
 
-_Si tienes fotos en tu smartphone, abre una foto y puedes ver los metadatos como la fecha que se tomó, el tamaño, la ubicación, entre otras cosas._
+_Si tienes fotos en tu smartphone, abre una imagen y puedes ver los metadatos como la fecha que se tomó, el tamaño, la ubicación, etc. La foto en sí misma es el dato principal, mientras que los metadatos proporcionan información complementaria sobre la foto._
 
 
 ### **Database**
@@ -52,12 +52,27 @@ _Considera el escenario en donde estás administrando tu lista de contactos. En 
 
 
 ### **Orphaned Data**
+Son datos que existen sin ningun contexto asociado o significativo. Esencialmente, se trata de datos que carecen de conexiones o relaciones adecuadas con otros elementos de datos.
+
+_Piensa en una bliblioteca en donde encuentras un libro que falta la información sobre su autor, su título, etc. Este libro se convierte en un libro huérfano porque no puede ser adecuadamente categorizado o utilizado, ya que carece de los detalles que lo harían valioso dentro del sistema de la biblioteca. De manera similar, en el contexto de los datos, los datos huérfanos podrían ser una entrada de datos sin ninguna información correspondiente, como un registro de cliente sin nombre o detalles de contacto. Estos datos se vuelven difíciles de analizar o utlizar de manera efectiva debido a que carecen del contexto necesario._
 
 ### **Incomplete or Missing Data**
+Son los datos que no están completamente disponibles o carecen de cierta información requerida. Esto implica que existen brechas en los datos que pueden impedir su utilidad para el análisis o la otma de decisiones.
+
+_Imagina que estás de viaje y estás usando una app de navegación que te da los tiempos estimados de viaje basados en datos históricos de tráfico. Sin embargo, si la app no tiene la información actualizada sobre el tráfico o cierres de carreteras, no podrás predecir con precisión tu tiempo de viaje. En este escenario, los datos incompletos o faltantes son la ausencia de información en el tiempo real sobre el tráfico. De manera similar, en el mundo de los datos, lo faltante podría encontrarse cuando analizas el comportamiento de los clientes si ciertas variables no se capturan o se registran_ 
+
 
 ### **Mislabeled Data**
+Son datos que han sido etiquetados o clasificados incorrectamente, lo que conlleva a información inexacta o engañosa. Esto implica que los datos no representan con precisión su verdadera naturaleza o significado.
+
+_Estás organizando una colección de fotos. Tienes un folder llamado "vacaciones en Hawaii", pero al abrirlo encuentras imagenes que de tus vacaciones en México. En el contexto de datos, los datos mal etiquetados pueden ocurrir cuando se asignan etiquetas incorrectas._
+
 
 ### **Data Swamp**
+Es la situación en donde una gran cantidad de datos se vuelve desorganizada, sin estructura y difícil utilizar de manera efectiva. Es un estado en el que los datos pierden valor y se vuelven estancado so inutilizables debido a la falta de una gestión y organización adecuadas.
+
+_Estás en tu cuarto lleno de varios objetos como ropa, zapatos, libros, etc. El cuarto está desorganizado y se vuelve muy complicado encontrar lo que necesitas. En este ejemplo, el cuarto desordenado representa un data swamp. Asimismo, en el ámbito digital, un data swamp puede surgir cuando existe una abrumadora cantidad de datos desorganizados almacenados en diversos sistemas, bases de datos, o archivos._
+
 
 ### **Hot Data**
 
