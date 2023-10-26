@@ -59,7 +59,7 @@ _Piensa en una bliblioteca en donde encuentras un libro que falta la informació
 ### **Incomplete or Missing Data**
 Son los datos que no están completamente disponibles o carecen de cierta información requerida. Esto implica que existen brechas en los datos que pueden impedir su utilidad para el análisis o la otma de decisiones.
 
-_Imagina que estás de viaje y estás usando una app de navegación que te da los tiempos estimados de viaje basados en datos históricos de tráfico. Sin embargo, si la app no tiene la información actualizada sobre el tráfico o cierres de carreteras, no podrás predecir con precisión tu tiempo de viaje. En este escenario, los datos incompletos o faltantes son la ausencia de información en el tiempo real sobre el tráfico. De manera similar, en el mundo de los datos, lo faltante podría encontrarse cuando analizas el comportamiento de los clientes si ciertas variables no se capturan o se registran_ 
+_Imagina que estás de viaje y estás usando una app de navegación (google maps) que te da los tiempos estimados de viaje basados en datos históricos de tráfico. Sin embargo, si la app no tiene la información actualizada sobre el tráfico o cierres de carreteras, no podrás predecir con precisión tu tiempo de viaje. En este escenario, los datos incompletos o faltantes son la ausencia de información en el tiempo real sobre el tráfico. De manera similar, en el mundo de los datos, lo faltante podría encontrarse cuando analizas el comportamiento de los clientes si ciertas variables no se capturan o se registran_ 
 
 
 ### **Mislabeled Data**
@@ -74,11 +74,11 @@ Es la situación en donde una gran cantidad de datos se vuelve desorganizada, si
 _Estás en tu cuarto lleno de varios objetos como ropa, zapatos, libros, etc. El cuarto está desorganizado y se vuelve muy complicado encontrar lo que necesitas. En este ejemplo, el cuarto desordenado representa un data swamp. Asimismo, en el ámbito digital, un data swamp puede surgir cuando existe una abrumadora cantidad de datos desorganizados almacenados en diversos sistemas, bases de datos, o archivos._
 
 
-### **Hot Data**
+### **Data Temperature**
+Ayuda a las organizaciones a gestionar de manera más eficiente sus estrategias de almacenamiento y recuperación de datos, asegurando que los datos de acceso frecuente y críticos estén dispnibles de manera rápida, al tiempo que se optimizan los costos para los datos de acceso menos frecuente.
 
-### **Warm Data**
+_En el ámbito de los datos, la temperatura de datos generalmente se clasfica en Hot Data, Warm data, and Cold Data. Los datos 'hot' se refieren a los datos que se utilizan activamente y se acceden con frecuencia (Como datos transaccionales en un sistema bancario), los datos 'warm' se refieren a los datos que se acceden con menos frecuencia pero que aún son relevantes para el análisis o toma de decisiones (Como datos históricos de ventas para análisis), y por último los datos 'cold' se refieren a los datos que se acceden raramente y se consideran menos críticos (Como copias de seguridad de datos).
 
-### **Cold Data**
 
 ### **Data Lineage**
 Es el rastreo que muestran los datos desde su origen hasta su uso final a lo largo de su ciclo de vida. Es como si fuera un mapa que te dice de dónde viene el dato y cómo ha cambiado con el tiempo.
