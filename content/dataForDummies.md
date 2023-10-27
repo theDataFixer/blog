@@ -77,7 +77,7 @@ _Estás en tu cuarto lleno de varios objetos como ropa, zapatos, libros, etc. El
 ### **Data Temperature**
 Ayuda a las organizaciones a gestionar de manera más eficiente sus estrategias de almacenamiento y recuperación de datos, asegurando que los datos de acceso frecuente y críticos estén dispnibles de manera rápida, al tiempo que se optimizan los costos para los datos de acceso menos frecuente.
 
-_En el ámbito de los datos, la temperatura de datos generalmente se clasfica en Hot Data, Warm data, and Cold Data. Los datos 'hot' se refieren a los datos que se utilizan activamente y se acceden con frecuencia (Como datos transaccionales en un sistema bancario), los datos 'warm' se refieren a los datos que se acceden con menos frecuencia pero que aún son relevantes para el análisis o toma de decisiones (Como datos históricos de ventas para análisis), y por último los datos 'cold' se refieren a los datos que se acceden raramente y se consideran menos críticos (Como copias de seguridad de datos).
+_En el ámbito de los datos, la temperatura de datos generalmente se clasfica en Hot Data, Warm data, and Cold Data. Los datos 'hot' se refieren a los datos que se utilizan activamente y se acceden con frecuencia (Como datos transaccionales en un sistema bancario), los datos 'warm' se refieren a los datos que se acceden con menos frecuencia pero que aún son relevantes para el análisis o toma de decisiones (Como datos históricos de ventas para análisis), y por último los datos 'cold' se refieren a los datos que se acceden raramente y se consideran menos críticos (Como copias de seguridad de datos)._
 
 
 ### **Data Lineage**
@@ -92,10 +92,16 @@ Es cuando transfieres datos de un sistema a otro, ya sea para actualizar tecnolo
 _Es como mudarse de una casa vieja a una nueva (te llevas tus cosas y las organizas de manera similar en la nueva casa). Ahora para ponerlo más sencillo, en datos aplica cuando cambias de computadora, y transfieres tus fotos, documentos, y archivos necesarios._
 
 
-### **Data Modeling**
-Es la representación estructurada de cómo se organizan y relacionan los datos en un sistema.
+### **Data Model**
+Es la representación estructurada de datos que define cómo se organizan, almacenan, y relacionan entre sí. Describe la estructura lógica, las relaciones y las restricciones de los datos. Un modelo de datos puede estar representado en diversas formas, como un diagrama, un esquema o un conjunto de reglas. Prácticamente es el plano para diseñar y crear un sistema de datos.
 
-_Imagina que estás por organizar tu fiesta y quieres asegurarte de que haya suficiente comida y bebida para tus invitados. Además, piensas en un área específica para cada tipo de comida, bebida, evento, etc. En datos terminas de igual manera organizando cómo estructurar y relacionar los datos en un sistema._
+_Una forma popular de representar un modelo de datos es por medio de un diagrama entidad-relación (ER diagram), en donde las entidades son representadas con rectángulos, y las relaciones se representan por medio de líneas que se conectan entre sí. Otra forma de representar el modelo es por medio de un esquema, que básicamente define la estructura y organización de una base de datos. Y por último un modelo de datos también puede ser definido usando una serie de reglas que describan cómo la data puede ser organizada y relacionada (como convenciones de nombres, restricciones de integridad de datos y relaciones de datos)
+
+
+### **Data Modeling**
+Es el proceso de crear el modelo de datos. Involcura analizar los requerimientos, entender las fuentes de datos, y diseñar la estructura y relaciones de los datos. El 'Modelado de Datos' puede considerarse como la actividad de traducir conceptos y entidades del mundo real en una representación formal de un modelo de datos.
+
+_Tienes una plataforma de e-commerce. Al momento de crear un modelo de datos para un tipo de plataforma como estas, el modelado de datos involucraría identificar y representar entidades clave, relaciones, y atributos. Por ejemplo un usuario representaría una persona que se registra en la plataforma y puede tener atributos como ID, nombre, información de contacto, y detalles de su modo de pago._
 
 
 ### **Data Maturity**
