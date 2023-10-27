@@ -95,7 +95,7 @@ _Es como mudarse de una casa vieja a una nueva (te llevas tus cosas y las organi
 ### **Data Model**
 Es la representación estructurada de datos que define cómo se organizan, almacenan, y relacionan entre sí. Describe la estructura lógica, las relaciones y las restricciones de los datos. Un modelo de datos puede estar representado en diversas formas, como un diagrama, un esquema o un conjunto de reglas. Prácticamente es el plano para diseñar y crear un sistema de datos.
 
-_Una forma popular de representar un modelo de datos es por medio de un diagrama entidad-relación (ER diagram), en donde las entidades son representadas con rectángulos, y las relaciones se representan por medio de líneas que se conectan entre sí. Otra forma de representar el modelo es por medio de un esquema, que básicamente define la estructura y organización de una base de datos. Y por último un modelo de datos también puede ser definido usando una serie de reglas que describan cómo la data puede ser organizada y relacionada (como convenciones de nombres, restricciones de integridad de datos y relaciones de datos)
+_Una forma popular de representar un modelo de datos es por medio de un diagrama entidad-relación (ER diagram), en donde las entidades son representadas con rectángulos, y las relaciones se representan por medio de líneas que se conectan entre sí. Otra forma de representar el modelo es por medio de un esquema, que básicamente define la estructura y organización de una base de datos. Y por último un modelo de datos también puede ser definido usando una serie de reglas que describan cómo la data puede ser organizada y relacionada (como convenciones de nombres, restricciones de integridad de datos y relaciones de datos)_
 
 
 ### **Data Modeling**
