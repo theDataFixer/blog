@@ -44,6 +44,11 @@ Los datos semiestructurados se encuentran entre los datos estructurados y los da
 
 _Piensa en una bandeja de entrada de un email. Cada email consiste en elementos estructurados como remitente, destinatario, asunto, y timestamp. No obstante, el cuerpo del email puede contener información no estructurada como texto de formato libre, adjuntos, o estilos de formato diferentes. Esta combinación de estructura y flexibilidad representa datos semiestructurados._
 
+### **Data Testing**
+Es el proceso de examinar y validar datos para asegurar su calidad, precisión y confiabilidad. Involucra checkar si los datos cumple con los estándares esperados y satisfacen los criterios deseados. En esencia, la prueba de datos es como corregir pruebas en tus datos para detectar errores o inconsistencias, asegurando que la información con la que estás trabajando sea confiable y digna de confianza.
+
+_Imagina que trabajas como cajero/a en un supermercado, y tu trabajo es registrar los precios de diferentes productos vendidos. La prueba de datos en este contexto impicaría verificar que el precio que ingreses para cada producto sea correcto, asegurándote de que no haya errores tipográficos o equivocaciones. Podrías comparar los precios ingresados con una lista de referencia o verificar con un coworker para validar la precisión de los datos registrados._
+
 
 ### **Duplicate Data**
 Se refiere a tener múltiples copias idénticas o casi idénticas de la misma información dentro de un conjunto de datos o sistemas.
@@ -81,15 +86,15 @@ _En el ámbito de los datos, la temperatura de datos generalmente se clasfica en
 
 
 ### **Data Lineage**
-Es el rastreo que muestran los datos desde su origen hasta su uso final a lo largo de su ciclo de vida. Es como si fuera un mapa que te dice de dónde viene el dato y cómo ha cambiado con el tiempo.
+Es la capacidad de rastrear el origen y movimiento de los datos a lo largo de su ciclo de vida. Esto te ayuda a entender de dónde provienen los datos, cómo se transforman y a dónde van, lo que te permite realizar un seguimiento y analizar el flujo de datos dentro de un sistema u organización. En términos simples, la línea de datos es como rastrear los pasos de tus datos, lo que te permite comprender su recorrido desde el principio hasta el final y obtener información sobre cómo se utiliza y transforma en el camino.
 
-_Si quieres seguir el rastro de los ingredientes de alguna receta a lo largo de las generaciones, estás siguiendo el linaje de datos de la misma._
+_Imagina que ordenas un producto en linea. La plataforma de e-commerce procesa tu orden, lo cual implica múltiples pasos como la gestión de inventario, el procesamiento de pagos y el envío. La línea de datos en este escenario implicaría rastrear el recorrido de los detalles de tu pedido desde el momento en que realizas el pedido hasta que llega a tu puerta. Por ejemplo, la línea de datos podría mostrar que los detalles de tu pedido se originaron en la base de datos de la tienda en línea, luego se movieron al sistema de pago y posteriormente al departamento de logística para el envío._
 
 
 ### **Data Migration**
-Es cuando transfieres datos de un sistema a otro, ya sea para actualizar tecnología o para cambiar de plataforma.
+Es el proceso de transferir datos de un sistema, aplicación, o ubicación de almacenamiento a otro. Involucra mover los datos desde su ubicación actual a un nuevo destino, asegurando su integridad, completitud y compatibilidad. En resumen, es como mover tus datos digitales de una ubicación a otra, al igual que mover objetos físicos de una casa a otra durante una mudanza. 
 
-_Es como mudarse de una casa vieja a una nueva (te llevas tus cosas y las organizas de manera similar en la nueva casa). Ahora para ponerlo más sencillo, en datos aplica cuando cambias de computadora, y transfieres tus fotos, documentos, y archivos necesarios._
+_Es como mudarse de una casa vieja a una nueva. Como parte de la mudanza, necesitas transferir todas tus pertenencias, incluyendo meubles, electrodomésticos y objetos personales desde tu antigua casa a la nueva. La migración de datos es similar a este proceso, pero en lugar de objetos físicos, implica mover datos digitales. Durante la migración, es importante considerar factores como la compatibilidad de formato de datos, la seguridad de datos, y la validación de los datos para garantizar una transferencia exitosa._ 
 
 
 ### **Data Model**
@@ -105,9 +110,9 @@ _Tienes una plataforma de e-commerce. Al momento de crear un modelo de datos par
 
 
 ### **Data Maturity**
-Es una forma de evaluar en qué etapa se encuentra una organización en términos de cómo utiliza y gestiona datos.
+Es una forma de evaluar en qué etapa se encuentra una organización en términos de cómo utiliza y gestiona datos. Representa la capacidad de la organización para recolectar, almacenar, procesar y analizar datos de manera efectiva para obtener ideas valiosas y tomar decisiones.
 
-_Una compañía de retail podría empezar a recolectar datos usando spreadsheets, pero con el tiempo puede mejorar su madurez al centralizar sus datos, integrando diferentes fuentes, y utilizando analítica avanzada para tomar mejores decisiones._
+_Tienes un pequeño negocio que se basa en datos de clientes para impulsar campañas de marketing. Inicialmente, recopilas información de los clientes en hojas de cálculo y tomas decisiones basadas en datos demográficos básicos. En esta etapa, tu nivel de madurez es relativamente bajo. Conforme tu negocio crece, inviertes en un sistema de gestión de relaciones con los clientes (CRM) que automatiza la recoplicación de datos y proporciona capacidades analíticas más avanzadas. Comienzas a utilizar estos datos para crear campañas de marketing personalizadas y hacer un seguimiento de su efectividad. En esta etapa, tu nivel de madurez aumentaría. Y más adelante, implementas prácticas de gestión de datos más sofisticadas, como políticas de gobierno de datos, mediciones de calidad de datos, e integración de datos en múltiples sistemas. Utilizas algoritmos de Machine Learning para predecir el comportamiento de los clientes y tienes un equipo dedicado de datos que monitorea y mejora continuamente los procesos de datos. En esta etapa, tu nivel de madurez es alto._
 
 
 ### **Data Contract**
@@ -119,6 +124,8 @@ _Una compañía de retail podría empezar a recolectar datos usando spreadsheets
 ### **Data Management**
 
 ### **Master Data Management**
+
+### **Data Democratization**
 
 ### **Data Ops**
 
