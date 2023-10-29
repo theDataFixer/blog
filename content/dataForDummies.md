@@ -116,10 +116,22 @@ _Tienes un pequeño negocio que se basa en datos de clientes para impulsar campa
 
 
 ### **Data Contract**
+Es un documento que define la estructura, formato, semántica, calidad, y términos de uso para el intercambio de datos entre un proveedor de datos y sus consumidores. Ayuda a asegurar que los datos sean consistentes, confiables, y entendibles en diferentes sistemas.
+
+_Eres un chef que necesita otros ingredientes de un proveedor. En este caso, un contrato de datos sería una lista de compras detallada que especifica claramente el tipo de ingredneintes, la cantidad necesaria, etc. Ahora, en datos, diferentes sistemas necesitan compartir o intercambiar datos. Para garantizar una comunicación fluida, un contrato ayuda a definir la estructura y reglas para los datos que se comparten. Especifica cosas como el formato de los datos (por ejemplo, CSV, JSON), los campos y sus tipos, cualquier regla de validación o restricción, y el comportamiento esperado._
+
 
 ### **Data Entropy**
+Describe la cantidad de incertidumbre o desorden en un conjunto de datos. Cuanto mayor sea la entropía, mayor será la aleatoriedad y la falta de patrones en los datos.
+
+_Tienes una baraja de cartas que está perfectamente ordenada desde el as hasta el rey en cada palo. En este caso, la entropía de los datos es baja porque el orden es predecible y no contiene mucha aleatoriedad. Ahora, consideremos una baraja de cartas mezclada donde las cartas están en un orden aleatorio. En este caso, la entropía de los datos es alta porque el orden es impredecible y contiene más aleatoriedad_
+
 
 ### **Data Debt**
+Es la acumulación de problemas que surgen de prácticas inadecuadas de gestión de datos. Al igual que la deuda técnica, la deuda de datos es el costo de evitar o retrasar la inversión en el mantenimiento o gestión de los activos de datos. En resumen, la deuda de datos es el resultado de descuidar el mantenimiento de los activos de datos, lo que conduce a inconsistencias, redundancias e inexactitudes en los datos.
+
+_Imagina que en tu empresa, las partes interesadas requieren una nueva función o producto de datos. Los científicos de datos empiezan a explorar y se dan cuenta que los datos no están disponibles, por lo que le piden a los ingenieros de datos un nuevo data pipeline. Sin embargo, los ingenieros de datos tienen varias solicitudes por lo que les tomará meses resolver este requerimiento. Los científicos de datos se siente presionados, así que deciden no esperar y acceder directamente a los sistemas fuente y a las bases de datos sin los estándares de producción o mejores prácticas y, en consecuencia, se acostumbran a este proceso porque les brinda mayor autonomía y terminan creando una gran cantidad de deuda de datos (Y por ende generan inconsistencias de datos, altos costos de mantenimiento, o responsabilizar a las personas por los datos generados)_
+
 
 ### **Data Management**
 
