@@ -36,13 +36,16 @@ _Una guía telefónica contiene datos estructurados porque tiene organizados cam
 ### **Unstructured Data**
 Se refiere a información que no tiene un formato en específico. Por lo general, los datos no estructurados carecen de una estructura predefinida, por lo que los hacen más difíciles de analizar y procesar en comparación con los datos estructurados.
 
-_Imagina una pila de cartas escritas a mano. Cada carta puede contener diferente tipo de información, como historias personales, emociones, u opiniones. Estas cartas no siguen un formato estandarizado y puede variar en longitud, estilo de escritura o idioma. En el mundo digital los correos, las publicaciones de redes sociales, las imágenes, los videos, las grabaciones de audio, y los documentos con texto de formato libre son ejemplos de datos no estructurados._
+_Imagina una pila de cartas escritas a mano. Cada carta puede contener diferente tipo de información, como historias personales, emociones, u opiniones. Estas cartas no siguen un formato estandarizado y puede variar en longitud, estilo de escritura o idioma._
+
+_En el mundo digital los correos, las publicaciones de redes sociales, las imágenes, los videos, las grabaciones de audio, y los documentos con texto de formato libre son ejemplos de datos no estructurados._
 
 
 ### **Semi-structured Data**
 Los datos semiestructurados se encuentran entre los datos estructurados y los datos no estructurados. Posee algo de organización pero no tiene un estricto formato predefinido como los datos estructurados.
 
 _Piensa en una bandeja de entrada de un email. Cada email consiste en elementos estructurados como remitente, destinatario, asunto, y timestamp. No obstante, el cuerpo del email puede contener información no estructurada como texto de formato libre, adjuntos, o estilos de formato diferentes. Esta combinación de estructura y flexibilidad representa datos semiestructurados._
+
 
 ### **Data Testing**
 Es el proceso de examinar y validar datos para asegurar su calidad, precisión y confiabilidad. Involucra checkar si los datos cumple con los estándares esperados y satisfacen los criterios deseados. En esencia, la prueba de datos es como corregir pruebas en tus datos para detectar errores o inconsistencias, asegurando que la información con la que estás trabajando sea confiable y digna de confianza.
@@ -59,12 +62,17 @@ _Considera el escenario en donde estás administrando tu lista de contactos. En 
 ### **Orphaned Data**
 Son datos que existen sin ningun contexto asociado o significativo. Esencialmente, se trata de datos que carecen de conexiones o relaciones adecuadas con otros elementos de datos.
 
-_Piensa en una bliblioteca en donde encuentras un libro que falta la información sobre su autor, su título, etc. Este libro se convierte en un libro huérfano porque no puede ser adecuadamente categorizado o utilizado, ya que carece de los detalles que lo harían valioso dentro del sistema de la biblioteca. De manera similar, en el contexto de los datos, los datos huérfanos podrían ser una entrada de datos sin ninguna información correspondiente, como un registro de cliente sin nombre o detalles de contacto. Estos datos se vuelven difíciles de analizar o utlizar de manera efectiva debido a que carecen del contexto necesario._
+_Piensa en una bliblioteca en donde encuentras un libro que falta la información sobre su autor, su título, etc. Este libro se convierte en un libro huérfano porque no puede ser adecuadamente categorizado o utilizado, ya que carece de los detalles que lo harían valioso dentro del sistema de la biblioteca._
+
+_De manera similar, en el contexto de los datos, los datos huérfanos podrían ser una entrada de datos sin ninguna información correspondiente, como un registro de cliente sin nombre o detalles de contacto. Estos datos se vuelven difíciles de analizar o utlizar de manera efectiva debido a que carecen del contexto necesario._
+
 
 ### **Incomplete or Missing Data**
 Son los datos que no están completamente disponibles o carecen de cierta información requerida. Esto implica que existen brechas en los datos que pueden impedir su utilidad para el análisis o la otma de decisiones.
 
-_Imagina que estás de viaje y estás usando una app de navegación (google maps) que te da los tiempos estimados de viaje basados en datos históricos de tráfico. Sin embargo, si la app no tiene la información actualizada sobre el tráfico o cierres de carreteras, no podrás predecir con precisión tu tiempo de viaje. En este escenario, los datos incompletos o faltantes son la ausencia de información en el tiempo real sobre el tráfico. De manera similar, en el mundo de los datos, lo faltante podría encontrarse cuando analizas el comportamiento de los clientes si ciertas variables no se capturan o se registran_ 
+_Imagina que estás de viaje y estás usando una app de navegación (google maps) que te da los tiempos estimados de viaje basados en datos históricos de tráfico. Sin embargo, si la app no tiene la información actualizada sobre el tráfico o cierres de carreteras, no podrás predecir con precisión tu tiempo de viaje._
+
+_En este escenario, los datos incompletos o faltantes son la ausencia de información en el tiempo real sobre el tráfico. De manera similar, en el mundo de los datos, lo faltante podría encontrarse cuando analizas el comportamiento de los clientes si ciertas variables no se capturan o se registran_ 
 
 
 ### **Mislabeled Data**
@@ -76,7 +84,9 @@ _Estás organizando una colección de fotos. Tienes un folder llamado "vacacione
 ### **Data Swamp**
 Es la situación en donde una gran cantidad de datos se vuelve desorganizada, sin estructura y difícil utilizar de manera efectiva. Es un estado en el que los datos pierden valor y se vuelven estancado so inutilizables debido a la falta de una gestión y organización adecuadas.
 
-_Estás en tu cuarto lleno de varios objetos como ropa, zapatos, libros, etc. El cuarto está desorganizado y se vuelve muy complicado encontrar lo que necesitas. En este ejemplo, el cuarto desordenado representa un data swamp. Asimismo, en el ámbito digital, un data swamp puede surgir cuando existe una abrumadora cantidad de datos desorganizados almacenados en diversos sistemas, bases de datos, o archivos._
+_Estás en tu cuarto lleno de varios objetos como ropa, zapatos, libros, etc. El cuarto está desorganizado y se vuelve muy complicado encontrar lo que necesitas. En este ejemplo, el cuarto desordenado representa un data swamp._
+
+_Asimismo, en el ámbito digital, un data swamp puede surgir cuando existe una abrumadora cantidad de datos desorganizados almacenados en diversos sistemas, bases de datos, o archivos._
 
 
 ### **Data Temperature**
@@ -94,13 +104,17 @@ _Imagina que ordenas un producto en linea. La plataforma de e-commerce procesa t
 ### **Data Migration**
 Es el proceso de transferir datos de un sistema, aplicación, o ubicación de almacenamiento a otro. Involucra mover los datos desde su ubicación actual a un nuevo destino, asegurando su integridad, completitud y compatibilidad. En resumen, es como mover tus datos digitales de una ubicación a otra, al igual que mover objetos físicos de una casa a otra durante una mudanza. 
 
-_Es como mudarse de una casa vieja a una nueva. Como parte de la mudanza, necesitas transferir todas tus pertenencias, incluyendo meubles, electrodomésticos y objetos personales desde tu antigua casa a la nueva. La migración de datos es similar a este proceso, pero en lugar de objetos físicos, implica mover datos digitales. Durante la migración, es importante considerar factores como la compatibilidad de formato de datos, la seguridad de datos, y la validación de los datos para garantizar una transferencia exitosa._ 
+_Es como mudarse de una casa vieja a una nueva. Como parte de la mudanza, necesitas transferir todas tus pertenencias, incluyendo meubles, electrodomésticos y objetos personales desde tu antigua casa a la nueva. La migración de datos es similar a este proceso, pero en lugar de objetos físicos, implica mover datos digitales._ 
+
+_Durante la migración, es importante considerar factores como la compatibilidad de formato de datos, la seguridad de datos, y la validación de los datos para garantizar una transferencia exitosa._ 
 
 
 ### **Data Model**
 Es la representación estructurada de datos que define cómo se organizan, almacenan, y relacionan entre sí. Describe la estructura lógica, las relaciones y las restricciones de los datos. Un modelo de datos puede estar representado en diversas formas, como un diagrama, un esquema o un conjunto de reglas. Prácticamente es el plano para diseñar y crear un sistema de datos.
 
-_Una forma popular de representar un modelo de datos es por medio de un diagrama entidad-relación (ER diagram), en donde las entidades son representadas con rectángulos, y las relaciones se representan por medio de líneas que se conectan entre sí. Otra forma de representar el modelo es por medio de un esquema, que básicamente define la estructura y organización de una base de datos. Y por último un modelo de datos también puede ser definido usando una serie de reglas que describan cómo la data puede ser organizada y relacionada (como convenciones de nombres, restricciones de integridad de datos y relaciones de datos)_
+_Una forma popular de representar un modelo de datos es por medio de un diagrama entidad-relación (ER diagram), en donde las entidades son representadas con rectángulos, y las relaciones se representan por medio de líneas que se conectan entre sí._
+
+_Otra forma de representar el modelo es por medio de un esquema, que básicamente define la estructura y organización de una base de datos. Y por último un modelo de datos también puede ser definido usando una serie de reglas que describan cómo la data puede ser organizada y relacionada (como convenciones de nombres, restricciones de integridad de datos y relaciones de datos)_
 
 
 ### **Data Modeling**
@@ -112,13 +126,22 @@ _Tienes una plataforma de e-commerce. Al momento de crear un modelo de datos par
 ### **Data Maturity**
 Es una forma de evaluar en qué etapa se encuentra una organización en términos de cómo utiliza y gestiona datos. Representa la capacidad de la organización para recolectar, almacenar, procesar y analizar datos de manera efectiva para obtener ideas valiosas y tomar decisiones.
 
-_Tienes un pequeño negocio que se basa en datos de clientes para impulsar campañas de marketing. Inicialmente, recopilas información de los clientes en hojas de cálculo y tomas decisiones basadas en datos demográficos básicos. En esta etapa, tu nivel de madurez es relativamente bajo. Conforme tu negocio crece, inviertes en un sistema de gestión de relaciones con los clientes (CRM) que automatiza la recoplicación de datos y proporciona capacidades analíticas más avanzadas. Comienzas a utilizar estos datos para crear campañas de marketing personalizadas y hacer un seguimiento de su efectividad. En esta etapa, tu nivel de madurez aumentaría. Y más adelante, implementas prácticas de gestión de datos más sofisticadas, como políticas de gobierno de datos, mediciones de calidad de datos, e integración de datos en múltiples sistemas. Utilizas algoritmos de Machine Learning para predecir el comportamiento de los clientes y tienes un equipo dedicado de datos que monitorea y mejora continuamente los procesos de datos. En esta etapa, tu nivel de madurez es alto._
+_Tienes un pequeño negocio que se basa en datos de clientes para impulsar campañas de marketing. Inicialmente, recopilas información de los clientes en hojas de cálculo y tomas decisiones basadas en datos demográficos básicos. En esta etapa, tu nivel de madurez es relativamente bajo. Conforme tu negocio crece, inviertes en un sistema de gestión de relaciones con los clientes (CRM) que automatiza la recoplicación de datos y proporciona capacidades analíticas más avanzadas._
+
+_Comienzas a utilizar estos datos para crear campañas de marketing personalizadas y hacer un seguimiento de su efectividad. En esta etapa, tu nivel de madurez aumentaría. Y más adelante, implementas prácticas de gestión de datos más sofisticadas, como políticas de gobierno de datos, mediciones de calidad de datos, e integración de datos en múltiples sistemas. Utilizas algoritmos de Machine Learning para predecir el comportamiento de los clientes y tienes un equipo dedicado de datos que monitorea y mejora continuamente los procesos de datos. En esta etapa, tu nivel de madurez es alto._
+
+### **Data Pipeline**
+Es una serie de procesos digitales utilizados para recolectar, modificar, y entregar datos de un lugar a otro. Consiste en la ingestión de datos sin procesar de diversas fuentes, como aplicaciones, dispositivos y otros canales digitales, y trasladarlos a un repositorio de datos, como un Data Lake o un Data Warehouse, para su análisis.
+
+_Piensa que estás en una tienda en línea. Cuando realizas un pedido, la página necesita procesar tu orden, checar inventario, generar una etiqueta de envío, y enviarte un correo de confirmación. Todos estos pasos son parte de un Data Pipeline porque la página toma tu orden, pasa por varias etapas, y finalmente obtienes tu correo de confirmación._
 
 
 ### **Data Contract**
 Es un documento que define la estructura, formato, semántica, calidad, y términos de uso para el intercambio de datos entre un proveedor de datos y sus consumidores. Ayuda a asegurar que los datos sean consistentes, confiables, y entendibles en diferentes sistemas.
 
-_Eres un chef que necesita otros ingredientes de un proveedor. En este caso, un contrato de datos sería una lista de compras detallada que especifica claramente el tipo de ingredneintes, la cantidad necesaria, etc. Ahora, en datos, diferentes sistemas necesitan compartir o intercambiar datos. Para garantizar una comunicación fluida, un contrato ayuda a definir la estructura y reglas para los datos que se comparten. Especifica cosas como el formato de los datos (por ejemplo, CSV, JSON), los campos y sus tipos, cualquier regla de validación o restricción, y el comportamiento esperado._
+_Eres un chef que necesita otros ingredientes de un proveedor. En este caso, un contrato de datos sería una lista de compras detallada que especifica claramente el tipo de ingredneintes, la cantidad necesaria, etc._ 
+
+_Ahora, en datos, diferentes sistemas necesitan compartir o intercambiar datos. Para garantizar una comunicación fluida, un contrato ayuda a definir la estructura y reglas para los datos que se comparten. Especifica cosas como el formato de los datos (por ejemplo, CSV, JSON), los campos y sus tipos, cualquier regla de validación o restricción, y el comportamiento esperado._
 
 
 ### **Data Entropy**
@@ -128,25 +151,58 @@ _Tienes una baraja de cartas que está perfectamente ordenada desde el as hasta 
 
 
 ### **Data Debt**
-Es la acumulación de problemas que surgen de prácticas inadecuadas de gestión de datos. Al igual que la deuda técnica, la deuda de datos es el costo de evitar o retrasar la inversión en el mantenimiento o gestión de los activos de datos. En resumen, la deuda de datos es el resultado de descuidar el mantenimiento de los activos de datos, lo que conduce a inconsistencias, redundancias e inexactitudes en los datos.
+Es la acumulación de problemas que surgen de prácticas inadecuadas de gestión de datos. Al igual que la deuda técnica, la deuda de datos es el resultado de descuidar el mantenimiento de los activos de datos, lo que conduce a inconsistencias, redundancias e inexactitudes en los datos.
 
-_Imagina que en tu empresa, las partes interesadas requieren una nueva función o producto de datos. Los científicos de datos empiezan a explorar y se dan cuenta que los datos no están disponibles, por lo que le piden a los ingenieros de datos un nuevo data pipeline. Sin embargo, los ingenieros de datos tienen varias solicitudes por lo que les tomará meses resolver este requerimiento. Los científicos de datos se siente presionados, así que deciden no esperar y acceder directamente a los sistemas fuente y a las bases de datos sin los estándares de producción o mejores prácticas y, en consecuencia, se acostumbran a este proceso porque les brinda mayor autonomía y terminan creando una gran cantidad de deuda de datos (Y por ende generan inconsistencias de datos, altos costos de mantenimiento, o responsabilizar a las personas por los datos generados)_
+_Imagina que en tu empresa, las partes interesadas requieren una nueva función o producto de datos. Los científicos de datos empiezan a explorar y se dan cuenta que los datos no están disponibles, por lo que le piden a los ingenieros de datos un nuevo data pipeline. Sin embargo, los ingenieros de datos tienen varias solicitudes por lo que les tomará meses resolver este requerimiento._
+
+
+_Los científicos de datos se siente presionados, así que deciden no esperar y acceder directamente a los sistemas fuente y a las bases de datos sin los estándares de producción o mejores prácticas y, en consecuencia, se acostumbran a este proceso porque les brinda mayor autonomía y terminan creando una gran cantidad de deuda de datos (Y por ende generan inconsistencias de datos, altos costos de mantenimiento, o responsabilizar a las personas por los datos generados)_
+
+
+### **Data Silos**
+Es una colección de datos que están controlados por un departamento o unidad de negocio y aislado del resto de la organización. Normalmente los datos se terminan almacenando en un sistema independiente y a menudo es incompatible con otros conjuntos de datos, lo que dificulta que los usuarios en otras partes de la organización accedan y utilicen los datos.
+
+_Imagina que tienes varias piezas de rompecabezasdispersas en diferentes habitaciones de tu casa. Cada habitación representa un departamento diferente dentro de una empresa, y las piezas de rompecabezas representan datos._
+
+_En el escenario de los Data Silos, cada departamento tiene su propia pieza de rompecabezas separada de los demás. Las piezas de un cuarto no son accesibles o compartidas con otros cuartos. Esto significa que cada dpartamento tiene so propio conjunto de datos que están aisladas del resto de la organización_
 
 
 ### **Data Management**
+Es el proceso de recopilar, almacenar, organizar y utilizar datos de manera segura, eficiente y rentable.
+
+_Tienes una gran colección de fotos de tu familia guardadas en tu computadora. Para administrar mejor tu colección, creas folders y subfolders para categorizar las fotos basado en eventos (Probablemente separas folders por cumpleaños, vacaciones, etc). Si quieres encontrar una foto en particular, es mucho más sencillo navegar al folder correspondiente en vez de encontrar las fotos una por una._
+
+_Similarmente, en la gestión de datos, los datos deben de estar organizados, etiquetados, y guardados en sistemas apropiados. Esto conlleva a que se tengan que definir las estructura de los datos, que se tengan que establecer convenciones de nombres para los datos, determinar controles de acceso e implementar mecanismos de respaldo y recuperación de datos._
+
 
 ### **Master Data Management**
+Es un proceso y conjunto de prácticas dirigido a crear y administrar un único 'golden record' de entidades de datos importantes dentro de una organización para garantizar coherencia, precisión y confiabilidad. Un MDM otorga una vista unificada de los datos en varios sistemas para satisfacer las necesidades de un negocio.
+
+_Eres parte de una empresa de retail que opera múltiples tiendas y una plataforma en línea. En esta compañía, tienes datos de clientes dispersos en distintos sitemas y bases de datos (como registros de ventas, programas de lealtad y registros en línea). Sin un adeucado Master Data Management, es posible que termines teniendo registros duplicados o inconsistencias en la entidad de clientes (Un ejemplo, tener a Juan Hernández, y en el sistema de ventas tiene diferentes entradas, programa de lealtad, y sistema de registro en línea con diferentes variaciones en el nombre, información de contacto, etc.)_
+
+_Entonces la empresa decide abordar este problema creando un MDM. Decide crear un repositorio central que funciona como la única fuente de verdad para los datos de los clientes. En este sistema de gestión de datos maestros, se consolidan, estandarizan, y elmininan duplicados de diferentes fuentes. Así, en lugar de tener múltiples versiones de los registros de Juan Hernández, el MDM garantiza que solo haya un registro consolidado y preciso._
+
 
 ### **Data Democratization**
+Significa que todos en la organización puedan acceder, entender, y utilizar los datos para tomar decisiones. Para lograr que los datos sean útiles, las organizaciones deben de romper los Data Silos y asegurarse de que los diversos usuarios de datos puedan colaboral, y que ya no tengan que depender de especialistas de datos o departamentos de IT.
+
+_Trabajas para una empresa de e-commerce que tienen un equipo centralizado de análisis responsable de generar informes y obtener información. Por ello, departamentos como marketing, ventas y operaciones tenían que depender del equipo de análisis para solicitar e interpretar datos para sus procesos de toma de decisiones._
+
+_Sin embargo, la compañía decide implementar la democratización de datos. Introducen herramientas de análisis self-service y tableros de control que ofrecen interfaces amigables para que los usuarios accedan y analicen los datos. Ahora, los departamentos pueden navegar fácilmente por la plataforma de análisis, ejecutar consultar y generar informes por sí mismos sin la necesidad de involucrar al equipo de análisis en cada paso._
+
+
+### **Data Catalog**
 
 ### **Data Ops**
 
 ### **Data Orchestration**
 
 ### **Data Governance**
-Son las políticas, reglas, y prácticas que aseguran la calidad, integridad, y seguridad de los datos.
+Son las políticas, reglas, y prácticas que aseguran la calidad, integridad, y seguridad de los datos. Incluye catalogar los datos, definir estandares y el proceso en torno a cómo se utiliza los datos en una organización.
 
-_En un partido de fútbol, los involucrados son los jugadores y el árbitro, donde este último se asegura de que sigan las reglas y que jueguen limpio. No juega el árbitro, no toca el balón, pero sí se asegura en que se cumplan las normas._
+_Piensa en el típico ejemplo en donde el gobierno de datos se ejecuta mal o no existe. Un analista de negocio tiene un requerimiento de crear un reporte pero no sabe que data usar para solucionar la petición. Probablemente tarde horas y horas revisando decenas de tablas en una base de datos transaccional, adivinando qué campos podrían ser útiles. El analista crea un informe "correcto", pero no está completamente seguro de que los datos del informe sean confiables. El destinatario del reporte también cuestiona la validez de los datos (y no solo de este reporte, sino también los datos de los sistemas de la empresa). La compañía está confundida acerca de su confiabildiad, por lo que dificulta la planificación y decisión al momento de usar los datos._
+
+_El gobierno de datos es fundamental para la empresa que se quiera regir en los datos. Cuando se practica una buena gobernanza de datos, las personas, los procesos y las tecnologías se alinean para considerar llos datos como un impulsor clave de negocio. Si surgen problemas con los datos, se abordan de manera oportuna. (Nota: Las categorías principales de la gobernanza de datos son la observabilidad, la seguridad, y la responsabilidad. Dentro de estas categorías existen subcategorías, como la calidad de datos, los metadatos y la privacidad)_
 
 
 ### **Data Owner**
@@ -240,8 +296,6 @@ _Te vas de viaje a una playa y tienes varias fotos de donde estuviste. En vez de
 ### **Data Platform**
 
 ### **Data Mesh**
-
-### **Data Catalog**
 
 ### **Data Sharing**
 
