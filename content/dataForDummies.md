@@ -192,6 +192,18 @@ _Sin embargo, la compañía decide implementar la democratización de datos. Int
 
 
 ### **Data Catalog**
+Es un inventario organizado de los activos de los datos que usa metadatos para ayudar a una organización a administar sus datos. Piensa como si fuera un repositorio centralizado donde puedes encontrar información relevante para tus necesidades respecto a datos, ya que te ayuda a entender qué dato está disponible, dónde está ubicado, y cómo puedes accesar a el.
+
+_Estás en una tienda de retail. Un catálogo de datos tendría información de varias fuentes de datos, como datos de ventas, datos de clientes, datos de inventario, y así sucesivamente. Esto tendría detalles como qué conjunto de datos tienen, cuándo fue actualizado por última vez, quién lo administra, y metadata relevante._
+
+_Un catálogo de datos abarca una gama más amplia de información sobre diversos activos de datos en toda la organziación, incluyendo metadatos, linaje de datos, calidad de datos e información de acceso. El objetivo es proporcionar una visión integral del panorama de datos de la organziación._
+
+
+### **Data Dictionary**
+Se enfoca en proveer definiciones y descripciones de elementos de datos en específico dentro de una base de datos o de un conjunto de datos. Ayuda a entender el significado y formato de los elementos individuales de datos.
+
+_Por definir el ejemplo/contexto_
+
 
 ### **Data Ops**
 
