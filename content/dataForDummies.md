@@ -202,7 +202,9 @@ _Un catálogo de datos abarca una gama más amplia de información sobre diverso
 ### **Data Dictionary**
 Se enfoca en proveer definiciones y descripciones de elementos de datos en específico dentro de una base de datos o de un conjunto de datos. Ayuda a entender el significado y formato de los elementos individuales de datos.
 
-_Por definir el ejemplo/contexto_
+_Imagina que tienes una aplicación de administración de contactos y quieres almacenar información sobre tus amigos. Para cada amigo, quieres guardar su nombre, número de teléfono y dirección de correo electrónico._
+
+_Un diccionario de datos ayudaría a tener una visión general de los datos disponibles, ayudaría a identificar los recursos relevantes y permite ver los detalles técnicos como esquemas, formatos de datos, responsable del mantenimiento, etc._
 
 
 ### **Data Ops**
