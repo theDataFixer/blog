@@ -208,6 +208,12 @@ _Un diccionario de datos ayudaría a tener una visión general de los datos disp
 
 
 ### **Data Ops**
+Es una práctica que se enfoca en gestionar y optimizar el flujo de datos dentro de una organización. Es similar a cómo se administran otros procesos en una empresa, pero se centra específicamente en el manejo de datos. En resumen, DataOps es una metodología que se utiliza para gestionar y optimizar el flujo de datos en una organización. Es similar a DevOps, pero se enfoca específicamente en el manejo de datos.
+
+_Imagina que eres el gerente de una tienda de ropa en línea. Tienes una gran cantidad de datos, como información de clientes, inventario, etc. Para asegurarte de que estos datos sean útiles y estén disponibles cuando los necesites, necesitas implementar Data Ops._
+
+_En este caso, Data Ops implicaría establecer procesos y herramientas para recopilar, almacenar y analizar los datos de manera eficiente. Por ejemplo, podrías utilizar un sistema automatizado que registre automáticamente los datos de los clientes cuando realizan una compra, los almacene en una base de datos segura y los organice de manera que puedas acceder a ellos fácilmente._
+
 
 ### **Data Orchestration**
 
