@@ -216,6 +216,7 @@ _En este caso, Data Ops implicaría establecer procesos y herramientas para reco
 
 
 ### **Data Orchestration**
+Es el proceso de coordinar y gestionar diversas tareas y flujos de datos para garatnizar su integridad, calidad y disponibilidad.
 
 ### **Data Governance**
 Son las políticas, reglas, y prácticas que aseguran la calidad, integridad, y seguridad de los datos. Incluye catalogar los datos, definir estandares y el proceso en torno a cómo se utiliza los datos en una organización.
