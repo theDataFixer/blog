@@ -216,7 +216,9 @@ _En este caso, Data Ops implicaría establecer procesos y herramientas para reco
 
 
 ### **Data Orchestration**
-Es el proceso de coordinar y gestionar diversas tareas y flujos de datos para garatnizar su integridad, calidad y disponibilidad.
+Implica la coordinación y gestión de diversas fuentes de datos, procesos y flujos de trabajo para garantizar una integración e interacción perfecta. Incluye actividades como movimiento de datos, transformación , programación y monitoreo para habilitar operaciones basadas en datos.
+
+_Te encuentras en la gestión de la cadena de suministro de una empresa minorista. La orquestación de datos puede usarse para coordinar de manera transparente los datos de inventario de los proveedores, los datos de ventas de las tiendas y los datos de envío para optimizar la cadena de suministro y garantizar operaciones eficientes. Al orquestar estas fuentes y procesos de datos, la empresa puede tomar decisiones informadas y optimizar su logísitca._
 
 ### **Data Governance**
 Son las políticas, reglas, y prácticas que aseguran la calidad, integridad, y seguridad de los datos. Incluye catalogar los datos, definir estandares y el proceso en torno a cómo se utiliza los datos en una organización.
@@ -227,31 +229,31 @@ _El gobierno de datos es fundamental para la empresa que se quiera regir en los 
 
 
 ### **Data Owner**
-Es alguien que está a cargo de administrar y controlar un conjunto específico de datos.
+Es el individuo o entidad que tiene la responsabilidad y el control último sobre activos de datos específicos. El propietario de datos suele ser responsable de determinar quién tiene acceso a los datos, garantizar su precisión y seguridad, y definir su uso permitido.
 
-_En una organización de atención médica, la propia organización sería la propietaria de los datos, responsable de proteger y gestionar los registros médicos de los pacientes._
+_Un ejemplo podría ser un hospital, donde el médico jefe o el administrador del hospital pueden estar designados como los propietarios de datos de los expedientes médicos de los pacientes. Serían responsables de supervisar quién puede acceder a los expedientes, mantener su confidencialidad y garantizar el cumpllimiento de las regulaciones de protección de datos._
 
 
 ### **Data Steward**
-Es alguien que se asegura de la gestión adecuada, calidad, y usabilidad de los datos dentro de una organización.
+Es alguien responsable de gestionar y garantizar la calidad, seguridad y uso de los activos de datos de una organización. Por lo general, establecen y hacen cumplir políticas y procedimientos de gestión de datos, supervisan la integración de datos y facilitan el cumplimiento de regulaciones. 
 
-_En una institución financiera, un equipo o una persona actúa como Data Steward para supervisar el cumplimiento normativo y el control de acceso para asegurar que los datos puedan utilizarse de manera efectiva para la toma de decisiones._
+_Eres el encargado de una institución financiera que supervisa la protección y privacidad de los datos de los clientes. Tu te encargas de cumplirr y asegurar que los datos de los clientes se manejen de acuerdo con los requisitos legales, las normas de la industria y las políticas internas, actuando así como un data steward para los datos financieros sensibles de la organziación._
 
 
 ### **Data Security**
-Son las medidas que se tienen que considerar para proteger los datos contra accesos no autorizados y pérdidas.
+Se refiere a la protección de los datos digitales contra el acceso no autorizado, la corrupción o el robo a lo largo de su ciclo de vida. Implica implementar medidas como el cifrado, controles de acceso y monitoreo para salvaguardar la información confidencial y prevenir violaciones o revelaciones no autorizadas.
 
-_Imagina que tienes una tienda de joyas y te llegaron 5 joyas super valiosas. Entonces tu, para protegerlas, los pones en una caja fuerte, y en una habitación especial,y  con una llave que solo tú y unos empleados de confianza pueden entrar. Ahora, trasladandolo a datos, usas contraseñas, accesos restringidos, protección de hackeos, entre otras posibles opciones para proteger tus datos._
+_Una institución financiera cifra los datos financieros de los clientes e implementa estrictos controles de acceso para evitar que personas no autorizadas vean o modifiquen los datos. Esto ayuda a proteger la información financiera sensible de los clientes de amenazas cibernéticas y posibles violaciones de datos._
 
 
 ### **Data Privacy**
-Consta en respetar los derechos y preferencias de las personas en cuanto al uso y manejo de sus datos personales.
+Consta en respetar los derechos y preferencias de las personas en cuanto al uso y manejo de sus datos personales. Es el manejo responsable de la información personal de individuos, aseguroando que sus datos estén protegidos contra el acceso, uso o divulgación no autorizados.
 
-_“No necesitas privacidad si no tienes nada que ocultar”. Es una mala forma de interpretar la privacidad porque se crea la sensación de que las personas que exigen privacidad deben ser criminales. Todos sabemos que pasa cuando vas al baño, pero aun así, cierras la puerta._
+_“No necesitas privacidad si no tienes nada que ocultar”. Es una mala forma de interpretar la privacidad porque se crea la sensación de que las personas que exigen privacidad deben ser criminales. Todos sabemos que pasa cuando vas al baño, pero aun así, cierras la puerta. Un ejemplo de privacidad de datos es cuando un minorista en línea recopila la información personal de los clientes para procesar pedidos, pero se asegura que estos datos se almacenen de forma segura y se obtenga el consentimiento de los clientes para comunicaciones de marketing._
 
 
 ### **Data Lifecycle**
-Es el ciclo completo que sigue ya sea un dato o un conjunto de datos, desde su creación hasta su eliminación o archivo.
+
 
 _Piensa en una plataforma de red social. Un usuario crea su perfil, captura su información, luego esa información se guarda en una base de datos, y eventualmente se archiva o se elimina de acuerdo a su relevancia y regulaciones._
 
