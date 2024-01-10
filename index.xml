@@ -8,12 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Sep 2023 07:18:02 -0700</lastBuildDate><atom:link href="https://thedatafixer.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>!Hola Mundo!</title>
+      <title>¡Hola Mundo!</title>
       <link>https://thedatafixer.xyz/posts/hello_world/</link>
       <pubDate>Fri, 08 Sep 2023 07:18:02 -0700</pubDate>
       
       <guid>https://thedatafixer.xyz/posts/hello_world/</guid>
-      <description>Intro Blog The Data Fixer</description>
+      <description>Pequeña introducción al blog theDataFixer</description>
+    </item>
+    
+    <item>
+      <title>¡Hablemos!</title>
+      <link>https://thedatafixer.xyz/hablemos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedatafixer.xyz/hablemos/</guid>
+      <description>¿Quieres hablar sobre datos, tecnologías, inquietudes, problemas, experiencias, o cualquier otro tema relacionado? ¡Hablemos!
+Como me apasiona este mundo increíble y como sé que hablando sobre estos temas surgen ideas o incluso se resuelven dudas, mi intención es ayudar al tener una charla en google meet de máximo 30 minutos.
+La estructura de la llamada puede ser de la siguiente manera:
+A qué te dedicas Tema a platicar Cierre Sí, es gratis.</description>
     </item>
     
     <item>
