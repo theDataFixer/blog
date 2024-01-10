@@ -7,7 +7,7 @@ ShowReadingTime: true
 
 Si alguna vez te has sentido abrumado por términos como Data Lake, metadata o Data Governance, entonces llegaste al lugar correcto. Sé que incluso para un mismo concepto existen diferentes interpretaciones, por lo que mi intención no es definir, sino explicar de forma sencilla la palabra acompañado de un ejemplo o un contexto.
 
-Si crees que falta agregar algún concepto, o si deseas editar algún término, puedes hacer un comentario al final de esta publicación, o de igual manera puedes contactarme de la forma que se te haga más fácil.
+Si crees que falta agregar o editar algo, puedes hacer un comentario al final de esta publicación, o de igual manera puedes contactarme de la forma que se te haga más fácil.
 
 ### **Data**
 Son hechos, cifras, o información cruda que se recopilan y almacenan para su posterior análisis. Puede incluir hechos, números, mediciones, observaciones, o cualquier otro detalle que se pueda utilizar para comprender un tema en particular.
@@ -38,7 +38,7 @@ Se refiere a información que no tiene un formato en específico. Por lo general
 
 _Imagina una pila de cartas escritas a mano. Cada carta puede contener diferente tipo de información, como historias personales, emociones, u opiniones. Estas cartas no siguen un formato estandarizado y puede variar en longitud, estilo de escritura o idioma._
 
-_En el mundo digital los correos, las publicaciones de redes sociales, las imágenes, los videos, las grabaciones de audio, y los documentos con texto de formato libre son ejemplos de datos no estructurados._
+_En el mundo digital los correos, las publicaciones de redes sociales, las imágenes, los videos, las grabaciones de audio y los documentos con texto de formato libre son ejemplos de datos no estructurados._
 
 
 ### **Semi-structured Data**
@@ -50,7 +50,7 @@ _Piensa en una bandeja de entrada de un email. Cada email consiste en elementos 
 ### **Data Testing**
 Es el proceso de examinar y validar datos para asegurar su calidad, precisión y confiabilidad. Involucra checkar si los datos cumple con los estándares esperados y satisfacen los criterios deseados. En esencia, la prueba de datos es como corregir pruebas en tus datos para detectar errores o inconsistencias, asegurando que la información con la que estás trabajando sea confiable y digna de confianza.
 
-_Imagina que trabajas como cajero/a en un supermercado, y tu trabajo es registrar los precios de diferentes productos vendidos. La prueba de datos en este contexto impicaría verificar que el precio que ingreses para cada producto sea correcto, asegurándote de que no haya errores tipográficos o equivocaciones. Podrías comparar los precios ingresados con una lista de referencia o verificar con un coworker para validar la precisión de los datos registrados._
+_Imagina que trabajas como cajero/a en un supermercado, y tu trabajo es registrar los precios de diferentes productos vendidos. La prueba de datos en este contexto implicaría verificar que el precio que ingreses para cada producto sea correcto, asegurándote de que no haya errores tipográficos o equivocaciones. Podrías comparar los precios ingresados con una lista de referencia o verificar con un coworker para validar la precisión de los datos registrados._
 
 
 ### **Duplicate Data**
@@ -60,7 +60,7 @@ _Considera el escenario en donde estás administrando tu lista de contactos. En 
 
 
 ### **Orphaned Data**
-Son datos que existen sin ningun contexto asociado o significativo. Esencialmente, se trata de datos que carecen de conexiones o relaciones adecuadas con otros elementos de datos.
+Son datos que existen sin ningún contexto asociado o significativo. Esencialmente, se trata de datos que carecen de conexiones o relaciones adecuadas con otros elementos de datos.
 
 _Piensa en una bliblioteca en donde encuentras un libro que falta la información sobre su autor, su título, etc. Este libro se convierte en un libro huérfano porque no puede ser adecuadamente categorizado o utilizado, ya que carece de los detalles que lo harían valioso dentro del sistema de la biblioteca._
 
@@ -68,7 +68,7 @@ _De manera similar, en el contexto de los datos, los datos huérfanos podrían s
 
 
 ### **Incomplete or Missing Data**
-Son los datos que no están completamente disponibles o carecen de cierta información requerida. Esto implica que existen brechas en los datos que pueden impedir su utilidad para el análisis o la otma de decisiones.
+Son los datos que no están completamente disponibles o carecen de cierta información requerida. Esto implica que existen brechas en los datos que pueden impedir su utilidad para el análisis o la toma de decisiones.
 
 _Imagina que estás de viaje y estás usando una app de navegación (google maps) que te da los tiempos estimados de viaje basados en datos históricos de tráfico. Sin embargo, si la app no tiene la información actualizada sobre el tráfico o cierres de carreteras, no podrás predecir con precisión tu tiempo de viaje._
 
@@ -104,7 +104,7 @@ _Imagina que ordenas un producto en linea. La plataforma de e-commerce procesa t
 ### **Data Migration**
 Es el proceso de transferir datos de un sistema, aplicación, o ubicación de almacenamiento a otro. Involucra mover los datos desde su ubicación actual a un nuevo destino, asegurando su integridad, completitud y compatibilidad. En resumen, es como mover tus datos digitales de una ubicación a otra, al igual que mover objetos físicos de una casa a otra durante una mudanza. 
 
-_Es como mudarse de una casa vieja a una nueva. Como parte de la mudanza, necesitas transferir todas tus pertenencias, incluyendo meubles, electrodomésticos y objetos personales desde tu antigua casa a la nueva. La migración de datos es similar a este proceso, pero en lugar de objetos físicos, implica mover datos digitales._ 
+_Es como mudarse de una casa vieja a una nueva. Como parte de la mudanza, necesitas transferir todas tus pertenencias, incluyendo muebles, electrodomésticos y objetos personales desde tu antigua casa a la nueva. La migración de datos es similar a este proceso, pero en lugar de objetos físicos, implica mover datos digitales._ 
 
 _Durante la migración, es importante considerar factores como la compatibilidad de formato de datos, la seguridad de datos, y la validación de los datos para garantizar una transferencia exitosa._ 
 
@@ -139,7 +139,7 @@ _Piensa que estás en una tienda en línea. Cuando realizas un pedido, la págin
 ### **Data Contract**
 Es un documento que define la estructura, formato, semántica, calidad, y términos de uso para el intercambio de datos entre un proveedor de datos y sus consumidores. Ayuda a asegurar que los datos sean consistentes, confiables, y entendibles en diferentes sistemas.
 
-_Eres un chef que necesita otros ingredientes de un proveedor. En este caso, un contrato de datos sería una lista de compras detallada que especifica claramente el tipo de ingredneintes, la cantidad necesaria, etc._ 
+_Eres un chef que necesita otros ingredientes de un proveedor. En este caso, un contrato de datos sería una lista de compras detallada que especifica claramente el tipo de ingredientes, la cantidad necesaria, etc._ 
 
 _Ahora, en datos, diferentes sistemas necesitan compartir o intercambiar datos. Para garantizar una comunicación fluida, un contrato ayuda a definir la estructura y reglas para los datos que se comparten. Especifica cosas como el formato de los datos (por ejemplo, CSV, JSON), los campos y sus tipos, cualquier regla de validación o restricción, y el comportamiento esperado._
 
@@ -156,15 +156,15 @@ Es la acumulación de problemas que surgen de prácticas inadecuadas de gestión
 _Imagina que en tu empresa, las partes interesadas requieren una nueva función o producto de datos. Los científicos de datos empiezan a explorar y se dan cuenta que los datos no están disponibles, por lo que le piden a los ingenieros de datos un nuevo data pipeline. Sin embargo, los ingenieros de datos tienen varias solicitudes por lo que les tomará meses resolver este requerimiento._
 
 
-_Los científicos de datos se siente presionados, así que deciden no esperar y acceder directamente a los sistemas fuente y a las bases de datos sin los estándares de producción o mejores prácticas y, en consecuencia, se acostumbran a este proceso porque les brinda mayor autonomía y terminan creando una gran cantidad de deuda de datos (Y por ende generan inconsistencias de datos, altos costos de mantenimiento, o responsabilizar a las personas por los datos generados)_
+_Los científicos de datos se sienten presionados, así que deciden no esperar y acceder directamente a los sistemas fuente y a las bases de datos sin los estándares de producción o mejores prácticas y, en consecuencia, se acostumbran a este proceso porque les brinda mayor autonomía y terminan creando una gran cantidad de deuda de datos (Y por ende generan inconsistencias de datos, altos costos de mantenimiento, o responsabilizar a las personas por los datos generados)_
 
 
-### **Data Silos**
-Es una colección de datos que están controlados por un departamento o unidad de negocio y aislado del resto de la organización. Normalmente los datos se terminan almacenando en un sistema independiente y a menudo es incompatible con otros conjuntos de datos, lo que dificulta que los usuarios en otras partes de la organización accedan y utilicen los datos.
+### **Data Silo**
+Es una colección de datos que está controlado por un departamento o unidad de negocio y aislado del resto de la organización. Normalmente los datos se terminan almacenando en un sistema independiente y a menudo es incompatible con otros conjuntos de datos, lo que dificulta que los usuarios en otras partes de la organización accedan y utilicen los datos.
 
-_Imagina que tienes varias piezas de rompecabezasdispersas en diferentes habitaciones de tu casa. Cada habitación representa un departamento diferente dentro de una empresa, y las piezas de rompecabezas representan datos._
+_Imagina que tienes varias piezas de rompecabezas dispersas en diferentes habitaciones de tu casa. Cada habitación representa un departamento diferente dentro de una empresa, y las piezas de rompecabezas representan datos._
 
-_En el escenario de los Data Silos, cada departamento tiene su propia pieza de rompecabezas separada de los demás. Las piezas de un cuarto no son accesibles o compartidas con otros cuartos. Esto significa que cada dpartamento tiene so propio conjunto de datos que están aisladas del resto de la organización_
+_En el escenario de los silos de datos, cada departamento tiene su propia pieza de rompecabezas separada de los demás. Las piezas de un cuarto no son accesibles o compartidas con otros cuartos. Esto significa que cada departamento tiene su propio conjunto de datos que están aisladas del resto de la organización_
 
 
 ### **Data Management**
@@ -184,7 +184,7 @@ _Entonces la empresa decide abordar este problema creando un MDM. Decide crear u
 
 
 ### **Data Democratization**
-Significa que todos en la organización puedan acceder, entender, y utilizar los datos para tomar decisiones. Para lograr que los datos sean útiles, las organizaciones deben de romper los Data Silos y asegurarse de que los diversos usuarios de datos puedan colaboral, y que ya no tengan que depender de especialistas de datos o departamentos de IT.
+Significa que todos en la organización puedan acceder, entender, y utilizar los datos para tomar decisiones. Para lograr que los datos sean útiles, las organizaciones deben de romper los silos de datos y asegurarse de que los diversos usuarios de datos puedan colaborar, y que ya no tengan que depender de especialistas de datos o departamentos de IT.
 
 _Trabajas para una empresa de e-commerce que tienen un equipo centralizado de análisis responsable de generar informes y obtener información. Por ello, departamentos como marketing, ventas y operaciones tenían que depender del equipo de análisis para solicitar e interpretar datos para sus procesos de toma de decisiones._
 
@@ -196,7 +196,7 @@ Es un inventario organizado de los activos de los datos que usa metadatos para a
 
 _Estás en una tienda de retail. Un catálogo de datos tendría información de varias fuentes de datos, como datos de ventas, datos de clientes, datos de inventario, y así sucesivamente. Esto tendría detalles como qué conjunto de datos tienen, cuándo fue actualizado por última vez, quién lo administra, y metadata relevante._
 
-_Un catálogo de datos abarca una gama más amplia de información sobre diversos activos de datos en toda la organziación, incluyendo metadatos, linaje de datos, calidad de datos e información de acceso. El objetivo es proporcionar una visión integral del panorama de datos de la organziación._
+_Un catálogo de datos abarca una gama más amplia de información sobre diversos activos de datos en toda la organización, incluyendo metadatos, linaje de datos, calidad de datos e información de acceso. El objetivo es proporcionar una visión integral del panorama de datos de la organización._
 
 
 ### **Data Dictionary**
@@ -237,7 +237,15 @@ _Un ejemplo podría ser un hospital, donde el médico jefe o el administrador de
 ### **Data Steward**
 Es alguien responsable de gestionar y garantizar la calidad, seguridad y uso de los activos de datos de una organización. Por lo general, establecen y hacen cumplir políticas y procedimientos de gestión de datos, supervisan la integración de datos y facilitan el cumplimiento de regulaciones. 
 
-_Eres el encargado de una institución financiera que supervisa la protección y privacidad de los datos de los clientes. Tu te encargas de cumplirr y asegurar que los datos de los clientes se manejen de acuerdo con los requisitos legales, las normas de la industria y las políticas internas, actuando así como un data steward para los datos financieros sensibles de la organziación._
+_Eres el encargado de una institución financiera que supervisa la protección y privacidad de los datos de los clientes. Tu te encargas de cumplir y asegurar que los datos de los clientes se manejen de acuerdo con los requisitos legales, las normas de la industria y las políticas internas, actuando así como un data steward para los datos financieros sensibles de la organización._
+
+
+### **Data Guardian**
+Se refiere a un rol, política o tecnología específicamente designada para proteger la integridad, confidencialidad y disponibilidad de los datos. Esto podría incluir la gestión de permisos, la implementación de medidas de seguridad y la supervisión del acceso a los datos.
+
+_Imagina que has dejado tu casa al cuidado de un vecino de confianza mientras estás de vacaciones. Este vecino vigila tu casa, riega tus plantas y se asegura de que no entren visitantes no deseados. En este escenario, tu casa y pertenencias son tus datos, y el vecino es el guardián de datos que mantiene todo seguro y en orden hasta que regreses._
+
+_En un entorno de atención médica, un guardián de datos es crucial. Un guardián supervisaría los registros de pacientes, un tipo de datos sensibles que requiere una protección rigurosa. El guardián se aseguraría de que los datos médicos estén encriptados, se registre y analice el acceso para detectar actividades no autorizadas, y de que los datos se compartan de manera segura con partes autorizadas._
 
 
 ### **Data Security**
@@ -247,7 +255,7 @@ _Una institución financiera cifra los datos financieros de los clientes e imple
 
 
 ### **Data Privacy**
-Consta en respetar los derechos y preferencias de las personas en cuanto al uso y manejo de sus datos personales. Es el manejo responsable de la información personal de individuos, aseguroando que sus datos estén protegidos contra el acceso, uso o divulgación no autorizados.
+Consta en respetar los derechos y preferencias de las personas en cuanto al uso y manejo de sus datos personales. Es el manejo responsable de la información personal de individuos, asegurando que sus datos estén protegidos contra el acceso, uso o divulgación no autorizados.
 
 _“No necesitas privacidad si no tienes nada que ocultar”. Es una mala forma de interpretar la privacidad porque se crea la sensación de que las personas que exigen privacidad deben ser criminales. Todos sabemos que pasa cuando vas al baño, pero aun así, cierras la puerta. Un ejemplo de privacidad de datos es cuando un minorista en línea recopila la información personal de los clientes para procesar pedidos, pero se asegura que estos datos se almacenen de forma segura y se obtenga el consentimiento de los clientes para comunicaciones de marketing._
 
@@ -261,7 +269,7 @@ _En el ámbito de los datos, un ejemplo del ciclo de vida de los datos sería la
 
 
 ### **Data Engineering Lifecycle**
-El ciclo de ingeniería de datos involucra recolectar, guardar, procesar, analizar, y mantener la infraestructura.
+El ciclo de ingeniería de datos involucra recolectar, guardar, procesar, analizar, y mantener la infraestructura. Detectas las fuentes, defines el almacenamiento, defines la ingestión, transformas, y por último disponibilizas la información.
 
 _Una compañía de ecommerce ingesta datos de múltiples fuentes, lo transforma, lo integra, hace análisis, y visualiza la información para tomar mejores decisiones. Es un proceso iterativo e implica monitorear y mejorar continuamente._
 
@@ -310,7 +318,7 @@ Es el proceso de almacenar temporalmente y preparar datos para cargarlos en un a
 
 _Es como preparar y organizar todas las herramientas, equipos y materiales necesarios antes de comenzar un proyecto casero, como pintar una habitación o ensamblar muebles. Involucra tener todo listo y organizado para facilitar la ejecución fluida del proyecto._
 
-_En tados sería almacenar y estructurar datos sin procesar de diversas fuentes en una zona de staging antes de integrarlos en un almacenamiento unificado o en una plataforma de análisis._
+_En datos sería almacenar y estructurar datos sin procesar de diversas fuentes en una zona de staging antes de integrarlos en un almacenamiento unificado o en una plataforma de análisis._
 
 
 ### **Data Warehouse**
@@ -321,7 +329,7 @@ _Eres el gerente de varias tiendas. Tienes datos de ventas, de inventarios, de c
 ### **Data Mart**
 Es un subconjunto de un almacén de datos de una organización que está diseñado para atender a una línea de negocio o departamento específico.
 
-_Es como una sección especializada en una biblioteca que contiene libros, revistas y recursos centrados en un tema o materia específica, satisfaciendo las necesidades de un grupo particular de lecotres._
+_Es como una sección especializada en una biblioteca que contiene libros, revistas y recursos centrados en un tema o materia específica, satisfaciendo las necesidades de un grupo particular de lectores._
 
 _Si ponemos en contexto datos, un ejemplo práctico de un data mart es un departamento de ventas que tiene su propio data mart dentro del almacén de datos de la empresa, dedicado a almacenar y analizar datos relacionados con las ventas para los requisitos específicos de informes y análisis del departamento._
 
@@ -333,9 +341,11 @@ _Te vas de viaje a una playa y tienes varias fotos de donde estuviste. En vez de
 
 
 ### **Data Lakehouse**
-Es una arquitectura de almacenamiento de datos que combina las características de un lago de datos y un almacén de datos, proporcionando un almacenamiento unificado de datos y capacidades de procesamiento.
+Es una arquitectura moderna de gestión de datos que combina los elementos de un data lake y un data warehouse. Un data lake termina siendo un depósito de datos sin procesar, mientras que un data warehouse está altamente estructurado y se utiliza para fines analíticos. Un data lakehouse tiene como objetivo almacenar grandes cantidades de datos estructurados y no estructurados (como un data lake) y soporta el tipo de consultas y análisis de datos eficientes típicamente posibles de un data warehouse.
 
-_Un data lakehouse es como una instalación de almacenamiento que no solo almacena una amplia variedad de elementos como un almacén, sino que también permite una organización y procesamiento flexibles similar a un lago, ofreciendo lo mejor de ambos mundos en cuanto a almacenamiento y flexibilidad._
+_Netflix tiene que lidiar con un volumen colosal de datos de diversas fuentes, como datos de usuarios, preferencias, datos de transmisión, metadatos de contenido, etc. Tradicionalmente, podrían almacenar datos sin procesar en un lago de datos y luego procesar y trasladar partes relevantes as un data warehouse para su análisis._
+
+_Con un lakehouse, Netflix puede almacenar todo en un solo lugar, utilizando técnicas avanzadas en el mismo entorno para realizar análisis complejos, recomendar películas, entender patrones de visualización y optimizar la calidad de transmisión sin la necesidad de mover constantemente datos entre un lago y un almacén._
 
 ### **Data Platform**
 Es una infraestructura tecnológica que permite la recopilación, almacenamiento, gestión y análisis de datos procedentes de diversas fuentes para respaldar las operaciones comerciales y la toma de decisiones.
@@ -366,6 +376,16 @@ Es una aplicación o herramienta de software que utiliza datos para ofrecer cono
 _Es como una aplicación de smartphone que utiliza datos de ubicación para proporcionar recomendaciones personalizadas de restaurantes cercanos, ayudando a los usuarios a tomar decisiones informadas sobre dónde cenar._
 
 _Un producto de datos es un panel de inteligencia empresarial que integra y visualiza datos de ventas, marketing y financieros para proporcionar conocimientos accionables a los tomadores de decisiones dentro de una organización._
+
+### **Data Quality**
+Abarca dimensiones como precisión, completitud, consistencia, confiabilidad y puntualidad. Involucra procesos y tecnologías que miden, gestionan y mejoran la salud de los datos. Mantener la calidad de los datos requiere vigilancia en las prácticas de gestión de datos y monitoreo continuo para detectar y corregir problemas.
+
+_Piensa que haces un viaje por carretera usando un mapa. Si el mapa está actualizado, preciso y detallado, es probable que tengas un viaje sin problemas, pero si está desactualizado es posible que te pierdas o te retrases. Los datos de alta calidad son como un mapa preciso y actualizado para un negocio, lo que conduce a mejores decisiones y operaciones más eficientes._
+
+### **Data Gathering**
+Es el proceso de recopilación, compilación y captura de información de diversas fuentes. La recolección es esencial para adquirir la materia prima necesaria para el análisis, la interpretación y la toma de decisiones.
+
+_Tan simple como llevar a cabo una encuesta para recopilar información sobre las preferencias de los clientes para un nuevo producto es un ejemplo de recolección de datos. Cuando alguien hace una encuesta puede analizar respuestas para obtener información sobre las necesidades y preferencias de los mismos._
 
 
 ### **Data Engineer**

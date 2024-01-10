@@ -20,7 +20,7 @@ Una de mis metas principales es guiar aquellos que ya están inmersos en el mund
 
 Por medio de tutoriales, consejos prácticos, reflexiones personales y estudios de caso, este lugar será un recurso valioso para todos los entusiastas de datos, ya sea para un principiante curioso o un experto en busca de nuevas perspectivas.
 
-He desempeñado muchos roles en el universo de los datos: Analista de Datos, Analista de Business Intelligence, Científico de Datos, Ingeniero de Datos, y Arquitecto de Datos. Prácticamente mi experiencia con datos ha abarcado desde estar en primera línea creando informes hasta diseñar arquitecturas de datos.
+He desempeñado muchos roles en el universo de los datos: Analista de Datos, Analista de Business Intelligence, Científico de Datos, Ingeniero de Datos, y Arquitecto de Datos. Prácticamente mi experiencia con datos ha abarcado desde estar en primera línea creando informes hasta diseñar arquitecturas.
 
 Los datos deben empoderar, no intimidar, y estoy aquí para cerrar esa brecha.
 

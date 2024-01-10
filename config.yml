@@ -76,8 +76,8 @@ menu:
     - name: Hablemos
       url: /hablemos/
       weight: 5 
-    - name: Archivo
-      url: /archive/
+    - name: Usos
+      url: /usos/
       weight: 5
     - name: Data For Dummies
       url: /datafordummies/
