@@ -73,8 +73,8 @@ params:
 
 menu:
   main:
-    - name: Etiquetas
-      url: /tags/
+    - name: Hablemos
+      url: /hablemos/
       weight: 5 
     - name: Archivo
       url: /archive/

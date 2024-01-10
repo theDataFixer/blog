@@ -28,9 +28,9 @@ Los datos deben empoderar, no intimidar, y estoy aquí para cerrar esa brecha.
 
 Quizás te estés preguntando acerca de mi avatar. Básicamente, es una representación metafórica de mi enfoque hacia los datos:
 
-- Pixelado: Al igual que los píxeles son los bloques de construcción de una imagen digital, los datos crudos forman la base de nuestro paisaje digital. Técnicamente, son la información no refinada, no procesada, que espera ser transformada.
-- Fontanero: Al igual que un fontanero que trabaja para reparar y mantener los sistemas de fontanería de un edificio, mi pensamiento es sumergirme profundamente en las tuberías de datos, desatascar cuellos de botella y asegurar el flujo de datos.
-- Estética de videojuego: Al igual que los juegos fomentan la exploración, la creatividad y la resolución de problemas, abordo los datos con un sentido de curiosidad y el deseo de hacerlos accesibles y atractivos para todos.
+- **Pixelado:** Al igual que los píxeles son los bloques de construcción de una imagen digital, los datos crudos forman la base de nuestro paisaje digital. Técnicamente, son la información no refinada, no procesada, que espera ser transformada.
+- **Fontanero:** Al igual que un fontanero que trabaja para reparar y mantener los sistemas de fontanería de un edificio, mi pensamiento es sumergirme profundamente en las tuberías de datos, desatascar cuellos de botella y asegurar el flujo de datos.
+- **Estética de videojuego:** Al igual que los juegos fomentan la exploración, la creatividad y la resolución de problemas, abordo los datos con un sentido de curiosidad y el deseo de hacerlos accesibles y atractivos para todos.
 
 &nbsp;
 

@@ -1,11 +1,9 @@
 ---
-title: "!Hola Mundo!"
+title: "¡Hola Mundo!"
 date: 2023-09-08T07:18:02-07:00
-summary: Intro Blog The Data Fixer 
+summary: Pequeña introducción al blog theDataFixer 
 tags: ["intro"]
 draft: false
-cover:
-    image: helloworld.gif
 ---
 
 ## Introducción 
