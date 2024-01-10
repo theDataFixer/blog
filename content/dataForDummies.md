@@ -16,13 +16,13 @@ _Si estás registrando la temperatura diaria en alguna ciudad durante un mes, pu
 
 
 ### **Metadata**
-Son los datos que proporcionan información sobre otros datos. Es el dato de los datos, como su origen, contexto, o significado, y nos ayuda a comprenderlos y gestionarlos de manera más efectiva.
+Es información que describe otros datos. Proporciona detalles sobre el contenido, calidad, condición, origen y otras características de un elemento específico. En el contexto digital, los metadatos puede incluir detalles como el autor, la fecha de creación, el tamaño del archivo y palabras clave.
 
 _Si tienes fotos en tu smartphone, abre una imagen y puedes ver los metadatos como la fecha que se tomó, el tamaño, la ubicación, etc. La foto en sí misma es el dato principal, mientras que los metadatos proporcionan información complementaria sobre la foto._
 
 
 ### **Database**
-Es un sistema de almacén digital que ayuda a organizar y administrar datos.
+Es una colección organizada de información estructurada, generalmente almacenada y accedida electrónicamente desde un sistema informático. Permite el almacenamiento, la recuperación y la manipulación eficientes de datos.
 
 _El clásico ejemplo es pensar en una biblioteca. Cada libro tiene su etiqueta con su título, autor, etc. En la biblioteca se guardan y organizan libros, pero en lugar de libros, piensa en datos. Al igual que un sistema de archivos, una base de datos ayuda a mantener la información estructurada._
 
@@ -253,9 +253,11 @@ _“No necesitas privacidad si no tienes nada que ocultar”. Es una mala forma 
 
 
 ### **Data Lifecycle**
+Se refiere a las etapas por las que atraviesa la información desde su creación o captura inicial hasta su posterior eliminación o archivado. Estas etapas suelen incluir la creación de datos, su almacenamiento, uso, compartición, archivado y eliminación.
 
+_Es como el viaje de un libro: desde que el autor lo escribe, pasando por su publicación, lectura por las personas, almacenamiento en una biblioteca y posiblemente su archivado o retirada de circulación._
 
-_Piensa en una plataforma de red social. Un usuario crea su perfil, captura su información, luego esa información se guarda en una base de datos, y eventualmente se archiva o se elimina de acuerdo a su relevancia y regulaciones._
+_En el ámbito de los datos, un ejemplo del ciclo de vida de los datos sería la información de productos de una empresa minorista. Comienza con la creación de la información del producto, luego se almacena en una base de datos, se utiliza para ventas en línea, se comparte con proveedores, se archiva para análisis históricos y finalmente se elimina cuando el producto ya no está disponible._
 
 
 ### **Data Engineering Lifecycle**
@@ -265,31 +267,35 @@ _Una compañía de ecommerce ingesta datos de múltiples fuentes, lo transforma,
 
 
 ### **Data Sources**
-Son los lugares o entidades donde la data se origina o se recolecta.
+Se refieren al origen o ubicación desde la cual se recopilan o extraen los datos para utilizar en análisis, informes o toma de decisiones.
 
-_Si quieres tener información del clima de tu ciudad, puedes tener varios puntos de partida para obtener la información necesaria (como una aplicación, o una estación local). En este ejemplo, las últimas dos opciones que mencioné serían las fuentes de datos._
+_Las fuentes de datos se pueden comparar con diferentes ingredientes utilizados en la cocina, como frutas, verduras y especias, que se recopilan de varios lugares para crear una receta._
+
+_En el ámbito de los datos, un ejemplo de fuentes de datos es una empresa que recopila información de sistemas dispares, como transacciones de ventas de un sistema de punto de venta, datos de clientes de una plataforma CRM y datos de tráfico web de una herramienta de análisis, para análisis empresarial e informes._
 
 
 ### **Data Storage**
-Es un lugar centralizado donde se recopila y se combinan datos de múltiples fuentes.
+Es un lugar centralizado donde se recopila y se combinan datos de múltiples fuentes. Implica la retención de datos en un formato estructurado para su acceso y uso futuro.
 
 _Es como encontrar un lugar para guardar tus libros en una librería para que después puedas encontrarlos y usarlos cuando lo requieras. En el mundo digital, este concepto involucra usar sistemas o dispositivos para almacenar y recuperar información digital._
 
 
 ### **Data Ingestion**
-Es el proceso de recolectar e importar datos de varias fuentes hacia un sistema para almacenarlos.
+Es el proceso de recopilar, importar y transferir datos procedentes de diversas fuentes hacia un sistema de almacenamiento o informático para su posterior procesamiento y análisis.
 
-_Imagina que estás en una compañía que opera tanto en físico como en una plataforma e-commerce, y quieres analizar los datos de cliente de varias fuentes. En este caso, la ingestión de datos sería importar datos de un CRM (Customer Relationship Management), de una plataforma de red social, o de la página de e-commerce._
+_Es como recopilar y organizar ingredientes de diferentes proveedores y llevarlos a la cocina de un restaurante para preparar comidas._
+
+_Ahora, en datos, un ejemplo sería una empresa minorista que recopila datos de ventas de múltiplestiendas y canales en línea, y los ingiere en un almacén de datos centralizado para análisis e informes._
 
 
 ### **Data Integration**
 Se enfoca en combinar datos de diferentes fuentes en una vista unificada y consistente. Su propósito es establecer un modelo de datos común.
 
-_De igual manera cuando ensamblas piezas de rompecabezas de diferentes lugares para completar la foto, la integración de datos unifica las fuentes._
+_De igual manera cuando ensamblas piezas de rompecabezas de diferentes lugares para completar la foto, la integración de datos unifica las fuentes. Un ejemplo sería una empresa que fusiona datos de clientes de un CRM, datos de ventas de un sistema ERP y datos de marketing de campañas digitales para crear una visión integral para análisis y toma de decisiones empresariales estratégicas._
 
 
 ### **Data Transformation**
-Es cuando modificas, limpias, o reorganizas los datos para que sean más útiles.
+Es convertir, reformatear y reestructurar los datos para adaptarlos al análisis, almacenamiento o presentación.
 
 _Imagina que estás en un supermercado en un diferente país al que naciste y ves los precios en una moneda diferente, por lo que tienes que comparar precios y transformarlo en una moneda que te sea más fácil de interpretar._
 
@@ -300,6 +306,12 @@ Es el proceso de hacer los datos accesibles y disponibles para los usuarios o ap
 _Piensa que estás en un restaurante y ordenaste un platillo. Los chefs en la cocina preparan la comida, y una vez que está listo, los meseros te sirven el platillo a tu mesa. En el contexto de datos, piensa en los datos como en la "comida" y piensa en los usuarios o aplicaciones como los "clientes"_
 
 ### **Staging Data**
+Es el proceso de almacenar temporalmente y preparar datos para cargarlos en un almacén de datos, lago de datos u otro repositorio de datos.
+
+_Es como preparar y organizar todas las herramientas, equipos y materiales necesarios antes de comenzar un proyecto casero, como pintar una habitación o ensamblar muebles. Involucra tener todo listo y organizado para facilitar la ejecución fluida del proyecto._
+
+_En tados sería almacenar y estructurar datos sin procesar de diversas fuentes en una zona de staging antes de integrarlos en un almacenamiento unificado o en una plataforma de análisis._
+
 
 ### **Data Warehouse**
 Es un repositorio centralizado y optimizado para gestionar grandes cantidades de datos de diferentes fuentes. Su enfoque es para análisis y toma de decisiones.
@@ -307,6 +319,12 @@ Es un repositorio centralizado y optimizado para gestionar grandes cantidades de
 _Eres el gerente de varias tiendas. Tienes datos de ventas, de inventarios, de clientes, y otros datos relacionados a tu negocio. Se vuelve complicado obtener una visión integral de tu negocio y tomar decisiones informadas basadas en datos dispersos. Al crear un Data Warehouse, consolidas y optimizas la información para consultas eficientes, informes, y análisis._
 
 ### **Data Mart**
+Es un subconjunto de un almacén de datos de una organización que está diseñado para atender a una línea de negocio o departamento específico.
+
+_Es como una sección especializada en una biblioteca que contiene libros, revistas y recursos centrados en un tema o materia específica, satisfaciendo las necesidades de un grupo particular de lecotres._
+
+_Si ponemos en contexto datos, un ejemplo práctico de un data mart es un departamento de ventas que tiene su propio data mart dentro del almacén de datos de la empresa, dedicado a almacenar y analizar datos relacionados con las ventas para los requisitos específicos de informes y análisis del departamento._
+
 
 ### **Data Lake**
 Es un repositorio que puede recopilar una gran cantidad de datos estructurados, semiestructurados y no estructurados que se almacenan hasta que se necesiten para procesar o analizar.
@@ -315,14 +333,40 @@ _Te vas de viaje a una playa y tienes varias fotos de donde estuviste. En vez de
 
 
 ### **Data Lakehouse**
+Es una arquitectura de almacenamiento de datos que combina las características de un lago de datos y un almacén de datos, proporcionando un almacenamiento unificado de datos y capacidades de procesamiento.
+
+_Un data lakehouse es como una instalación de almacenamiento que no solo almacena una amplia variedad de elementos como un almacén, sino que también permite una organización y procesamiento flexibles similar a un lago, ofreciendo lo mejor de ambos mundos en cuanto a almacenamiento y flexibilidad._
 
 ### **Data Platform**
+Es una infraestructura tecnológica que permite la recopilación, almacenamiento, gestión y análisis de datos procedentes de diversas fuentes para respaldar las operaciones comerciales y la toma de decisiones.
+
+_Una plataforma de datos se asemeja a un panel de control central que reúne diversas herramientas y sistemas, permitiendo a los usuarios acceder, gestionar y analizar datos de manera efectiva, como un tabler único para múltiples funicones._
+
+_Una plataforma de datos agiliza el proceso de recopilación, gestión y almacenamiento de datos, haciéndolos accesibles y utilizables para diversas aplicaciones. Proporciona gestión de datos en toda la extensión del entorno, incluyendo funciones críticas para el negocio como seguridad y observabilidad. Sin una plataforma de datos, cada componente suele ser manejado por una herramienta diferente o colección de herramientas para hacer que los datos fluyan desde la fuente hasta el usuario final en un entorno complejo._
+
 
 ### **Data Mesh**
+Es un enfoque descentralizado de la arquitectura de datos que hace hincapié en la distribución de la propiedad, el acceso y la gobernanza de datos en diferentes dominios o unidades comerciales dentro de una organización.
+
+_En términos sencillos, Data Mesh se asemeja a una red de bibliotecas locales autónomas, donde cada biblioteca gestiona y gobierna su colección de forma independiente, colaborando con otras para proporcionar una amplia gama de libros y recursos._
+
+_Un enfoque de Data Mesh es una organización en la que las unidades comerciales o departamentos individuales gestionan y gobiernan sus propios conjuntos de datos, al mismo tiempo que colaboran a través de estándares e interfaces compartidos para permitir la utilización y análisis de datos interfuncionales._
 
 ### **Data Sharing**
+Es el proceso de poner a disposición los mismos recursos de datos a múltiples aplicaciones, usuarios u organizaciones. Involucra tecnologías, prácticas, marcos legales y elementos culturales que facilitan el acceso seguro a los datos para múltiples entidades sin comprometer la integridad de los datos.
+
+_El intercambio de datos mejora la eficiencia dentro de una organización y fomenta la colaboración con proveedores y socios. Permite a las partes interesadas aprender unas de otras y colaborar en prioridades compartidas._
+
+_Los datos compartidos pueden varias, desde artículos de investigación o publicaciones académicas hasta estadísiticas corporativas, datos científicos o revisiones de desempeño anuales._
+
 
 ### **Data Product**
+Es una aplicación o herramienta de software que utiliza datos para ofrecer conocimientos valiosos, servicios o funcionalidad a usuarios u otros sistemas.
+
+_Es como una aplicación de smartphone que utiliza datos de ubicación para proporcionar recomendaciones personalizadas de restaurantes cercanos, ayudando a los usuarios a tomar decisiones informadas sobre dónde cenar._
+
+_Un producto de datos es un panel de inteligencia empresarial que integra y visualiza datos de ventas, marketing y financieros para proporcionar conocimientos accionables a los tomadores de decisiones dentro de una organización._
+
 
 ### **Data Engineer**
 Es el que se encarga de construir y mantener sistemas que recopilan, almacenan, y procesan grandes cantidades de datos.
@@ -349,5 +393,3 @@ _Si quieres construir una casa, necesitas un plano para ver dónde irían las pu
 
 
 &nbsp;
-
-Más términos en construcción...
