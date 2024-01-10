@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dezoomcamp on The Data Fixer</title>
+    <link>https://thedatafixer.xyz/tags/dezoomcamp/</link>
+    <description>Recent content in dezoomcamp on The Data Fixer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://thedatafixer.xyz/tags/dezoomcamp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DE Zoomcamp: Modulo 1</title>
+      <link>https://thedatafixer.xyz/special/dezoomcamp-module-one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedatafixer.xyz/special/dezoomcamp-module-one/</guid>
+      <description>Work in progress</description>
+    </item>
+    
+  </channel>
+</rss>
