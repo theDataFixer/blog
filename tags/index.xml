@@ -16,41 +16,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>dezoomcamp</title>
-      <link>https://thedatafixer.xyz/tags/dezoomcamp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedatafixer.xyz/tags/dezoomcamp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker</title>
-      <link>https://thedatafixer.xyz/tags/docker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedatafixer.xyz/tags/docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gcp</title>
-      <link>https://thedatafixer.xyz/tags/gcp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedatafixer.xyz/tags/gcp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>terraform</title>
-      <link>https://thedatafixer.xyz/tags/terraform/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedatafixer.xyz/tags/terraform/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
