@@ -1,9 +1,11 @@
 ---
 title: "DE Zoomcamp | Semana 1"
-summary: Tutorial para semana 1 de data engineering zoomcamp
+summary: Tutorial para semana 1 de Data Engineering Zoomcamp
 tags: ["zoomcamp", "python", "docker", "postgresql"]
-draft: true
+draft: false
 ---
+
+*Post totalmente inspirado por este artículo: https://www.jonahboliver.com/blog/de-zc-w1*
 
 ## Introducción
 Este zoomcamp es un curso totalmente gratuito enfocado en ingeniería de datos y lo puedes tomar al momento que quieras, cuando tengas disponibilidad y a tu propio ritmo. Dentro del curso existen varios modulos:
@@ -70,11 +72,19 @@ El primer servicio, llamado "pgdatabase", utiliza la imagen de Docker "postgres:
 
 El segundo servicio, llamado "pgadmin", utiliza la imagen de Docker "dpage/pgadmin4" para ejecutar una interfaz de administración para la base de datos PostgreSQL. Se establece un correo electrónico y contraseña predeterminados para acceder a pgAdmin, y se define un volumen para almacenar los datos de pgAdmin. El servicio expone el puerto 8080 para acceder a la interfaz de usuario de pgAdmin.
 
-&nbsp;
+IMAGEN
 
 Al momento de correr `docker-compose up` deberías de tener dos contenedores, uno con PostgreSQL y otro con pgAdmin, y como los creamos con docker-compose ya están configurados en la misma red por lo que se pueden comunicar sin problema.
 
 Por cierto, el tener `${POSTGRES_USER} o ${POSTGRES_PASSWORD}` con esta sintaxis es porque es una buena práctica de seguridad tener tus credenciales de forma secreta. Además, otros beneficios de usarlo de esta manera son la mejora de portabilidad entre entornos y poder parametrizar tus credenciales por si quieres que sea más flexible y reutilizable para diferentes entornos.
+
+### Ejecutar servicios de Docker
+
+Como lo mencioné anteriormente, `docker-compose up` es la manera para ejecutar una vez que ya cuentes con tu YAML file. Ahora, lo que sigue es abrir tu explorador de preferencia e ir a `localhost:8080` y usar las credenciales definidas en tu archivo `.env` si es que decidiste usar variables de forma secreta como lo tengo en mi YAML.
+
+GIF LOGEANDOTE A LOCALHOST, LUEGO AGREGAR SERVER Y LA CONEXION Y TODO
+
+Si en dado caso 
 
 
 ## Python script
