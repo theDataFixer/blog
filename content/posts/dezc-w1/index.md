@@ -2,7 +2,7 @@
 title: "DE Zoomcamp | Semana 1"
 summary: Tutorial para semana 1 de Data Engineering Zoomcamp
 tags: ["zoomcamp", "python", "docker", "postgresql"]
-draft: false
+draft: true
 ---
 
 *Post totalmente inspirado por este artículo: https://www.jonahboliver.com/blog/de-zc-w1*
