@@ -5,17 +5,7 @@
     <link>https://thedatafixer.xyz/</link>
     <description>Recent content on The Data Fixer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2023 07:18:02 -0700</lastBuildDate><atom:link href="https://thedatafixer.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>¡Hola Mundo!</title>
-      <link>https://thedatafixer.xyz/posts/hello_world/</link>
-      <pubDate>Fri, 08 Sep 2023 07:18:02 -0700</pubDate>
-      
-      <guid>https://thedatafixer.xyz/posts/hello_world/</guid>
-      <description>Pequeña introducción al blog theDataFixer</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://thedatafixer.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¡Hablemos!</title>
       <link>https://thedatafixer.xyz/hablemos/</link>

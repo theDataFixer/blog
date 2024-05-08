@@ -2,21 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thedatafixer.xyz/posts/hello_world/</loc>
-    <lastmod>2023-09-08T07:18:02-07:00</lastmod>
-  </url><url>
-    <loc>https://thedatafixer.xyz/tags/intro/</loc>
-    <lastmod>2023-09-08T07:18:02-07:00</lastmod>
-  </url><url>
-    <loc>https://thedatafixer.xyz/posts/</loc>
-    <lastmod>2023-09-08T07:18:02-07:00</lastmod>
-  </url><url>
-    <loc>https://thedatafixer.xyz/tags/</loc>
-    <lastmod>2023-09-08T07:18:02-07:00</lastmod>
-  </url><url>
-    <loc>https://thedatafixer.xyz/</loc>
-    <lastmod>2023-09-08T07:18:02-07:00</lastmod>
-  </url><url>
     <loc>https://thedatafixer.xyz/hablemos/</loc>
   </url><url>
     <loc>https://thedatafixer.xyz/whoami/</loc>
@@ -28,6 +13,10 @@
     <loc>https://thedatafixer.xyz/datafordummies/</loc>
   </url><url>
     <loc>https://thedatafixer.xyz/search/</loc>
+  </url><url>
+    <loc>https://thedatafixer.xyz/tags/</loc>
+  </url><url>
+    <loc>https://thedatafixer.xyz/</loc>
   </url><url>
     <loc>https://thedatafixer.xyz/usos/</loc>
   </url>
