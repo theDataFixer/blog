@@ -13,7 +13,8 @@
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/arquitecto_datos/</guid>
-      <description>TL;DR La importancia de los datos en el mundo actual ¿Qué es un Arquitecto de datos? ¿Y qué NO es un Arquitecto de datos? Su papel en el ciclo de vida de datos Desafíos comúnes en el mundo de los datos Conclusión </description>
+      <description>Introducción Es muy importante que los datos sean accesibles y reutilizables para la sociedad y para la industria. Hoy por hoy es crucial que los datos tengan la capacidad de que sean accesibles y reutilizables no solo para el sector laboral, sino también uno como usuario.
+Crear o generar, guardar, ingestar, transformar, procesar y visualizar los datos es una tarea que requiere tiempo y esfuerzo. Además, mantener la seguridad, ejecutar la administración, realizar la operación, detallar la orquestación, conservar las buenas prácticas de la ingeniería de software, y definir la estrategia de la arquitectura de datos son aspectos sumamente críticos para el ecosistema de datos.</description>
     </item>
     
   </channel>
