@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>The Data Fixer</title>
+    <title>Omar Valdez | The Data Fixer</title>
     <link>https://thedatafixer.xyz/</link>
-    <description>Recent content on The Data Fixer</description>
+    <description>Recent content on Omar Valdez | The Data Fixer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://thedatafixer.xyz/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>¡Hablemos!</title>
-      <link>https://thedatafixer.xyz/hablemos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedatafixer.xyz/hablemos/</guid>
-      <description>¿Quieres hablar sobre datos, tecnologías, inquietudes, problemas, experiencias, o cualquier otro tema relacionado? ¡Hablemos!
-Como me apasiona este mundo increíble y como sé que hablando sobre estos temas surgen ideas o incluso se resuelven dudas, mi intención es ayudar al tener una charla en google meet de máximo 30 minutos.
-La estructura de la llamada puede ser de la siguiente manera:
-A qué te dedicas Tema a platicar Cierre Sí, es gratis.</description>
-    </item>
-    
     <item>
       <title>[~] $ whoami</title>
       <link>https://thedatafixer.xyz/whoami/</link>
@@ -28,26 +16,16 @@ A qué te dedicas Tema a platicar Cierre Sí, es gratis.</description>
 Mi propósito es compartir mi conocimiento con la comunidad interesada en el fascinante mundo de los datos, y mi objetivo es abarcar todo el ecosistema del ciclo de vida de los datos, desde la generación hasta el despliegue. Además, quiero destacar los elementos clave que subyacen en el ciclo de vida de los datos, como la seguridad, la gestión de datos, las operaciones de datos (DataOps), la arquitectura de datos, la orquestación, y la ingeniería de software.</description>
     </item>
     
-    
     <item>
       <title>Data for Dummies</title>
       <link>https://thedatafixer.xyz/datafordummies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thedatafixer.xyz/datafordummies/</guid>
-      <description>Si alguna vez te has sentido abrumado por términos como Data Lake, metadata o Data Governance, entonces llegaste al lugar correcto. Sé que incluso para un mismo concepto existen diferentes interpretaciones, por lo que mi intención no es definir, sino explicar de forma sencilla la palabra acompañado de un ejemplo o un contexto.
-Si crees que falta agregar o editar algo, puedes hacer un comentario al final de esta publicación, o de igual manera puedes contactarme de la forma que se te haga más fácil.</description>
+      <description>If you&amp;rsquo;ve ever felt overwhelmed by terms like Data Lake, metadata, or Data Governance, then you&amp;rsquo;ve come to the right place. I understand that even for the same concept, there can be different interpretations, so my intention is not to define, but to explain the word in a simple way accompanied by an example or context.
+If you think something needs to be added or edited, you can leave a comment at the end of this post, or you can contact me in any way that is easiest for you.</description>
     </item>
     
-    
-    <item>
-      <title>Usos</title>
-      <link>https://thedatafixer.xyz/usos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thedatafixer.xyz/usos/</guid>
-      <description>Debido a que me fascina todo lo que es FOSS (Free and Open Source Software), quisiera compartir las herramientas y ajustes que tengo en mi computadora personal. La razón principal por la cual hago esto es porque a mi me hubiera encantado saber en su momento el proceso de personalizar la apariencia de interfaz de usuario para hacerla lo más visualmente atractiva y lo más eficiente posible, y es por ello que lo pongo público.</description>
-    </item>
     
   </channel>
 </rss>
