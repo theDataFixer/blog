@@ -5,14 +5,106 @@ ShowToc: true
 ShowReadingTime: true
 ---
 
-Si alguna vez te has sentido abrumado por términos como Data Lake, metadata o Data Governance, entonces llegaste al lugar correcto. Sé que incluso para un mismo concepto existen diferentes interpretaciones, por lo que mi intención no es definir, sino explicar de forma sencilla la palabra acompañado de un ejemplo o un contexto.
+If you've ever felt overwhelmed by terms like Data Lake, metadata, or Data Governance, then you've come to the right place. I understand that even for the same concept, there can be different interpretations, so my intention is not to define, but to explain the word in a simple way accompanied by an example or context.
 
-Si crees que falta agregar o editar algo, puedes hacer un comentario al final de esta publicación, o de igual manera puedes contactarme de la forma que se te haga más fácil.
+If you think something needs to be added or edited, you can leave a comment at the end of this post, or you can contact me in any way that is easiest for you.
 
-### **Data**
-Son hechos, cifras, o información cruda que se recopilan y almacenan para su posterior análisis. Puede incluir hechos, números, mediciones, observaciones, o cualquier otro detalle que se pueda utilizar para comprender un tema en particular.
 
-_Si estás registrando la temperatura diaria en alguna ciudad durante un mes, puedes recopilar datos sobre la temperatura, humedad, velocidad del viento, y precipitaciones a lo largo del día. Los datos existen en diversas formas y se pueden encontrar en situaciones cotidianas._
+### Data
+Data is raw facts, figures, or measurements that are collected and stored for future analysis. It can include facts, numbers, measurements, observations, or any other details that can be used to understand a particular topic.
+
+_If you are recording the daily temperature in a city for a month, you can collect data on the temperature, humidity, wind speed, and precipitation throughout the day. Data exists in various forms and can be found in everyday situations._
+
+### Metadata
+Metadata is information that describes other data. It provides details about the content, quality, condition, origin, and other characteristics of a specific item. In the digital context, metadata can include details such as the author, creation date, file size, and keywords.
+
+_If you have photos on your smartphone, open an image and you can see the metadata such as the date it was taken, the size, the location, etc. The photo itself is the main data, while the metadata provides additional information about the photo._
+
+### Database
+A database is an organized collection of structured data, usually stored and accessed electronically from a computer system. It allows for efficient storage, retrieval, and manipulation of data.
+
+_The classic example is to think of a library. Each book has its label with its title, author, etc. In the library, books are stored and organized, but instead of books, think of data. Like a file system, a database helps keep information structured._
+
+### Structured Data
+Structured data refers to information that is organized in a specific format, making it easy to understand for both humans and computers. It consists of data elements organized in rows and columns, like a table.
+
+_A phone book contains structured data because it has organized specific fields such as name, phone number, address, and so on._
+
+### Unstructured Data
+
+Unstructured data refers to information that does not have a specific format. In general, unstructured data lacks a predefined structure, making it more difficult to analyze and process compared to structured data.
+
+_Imagine a pile of handwritten letters. Each letter may contain different types of information, such as personal stories, emotions, or opinions. These letters do not follow a standardized format and may vary in length, writing style, or language._
+
+_In the digital world, emails, social media posts, images, videos, audio recordings, and free-form text documents are examples of unstructured data._
+
+### Semi-structured Data
+Semi-structured data falls between structured data and unstructured data. It has some organization but does not have a strict predefined format like structured data.
+
+_Think of an email inbox. Each email consists of structured elements such as sender, recipient, subject, and timestamp. However, the body of the email may contain unstructured information such as free-form text, attachments, or different formatting styles. This combination of structure and flexibility represents semi-structured data._
+
+### Data Testing
+Data testing is the process of examining and validating data to ensure its quality, accuracy, and reliability. It involves checking whether the data meets the expected standards and satisfies the desired criteria. In essence, data testing is like proofreading your data to detect errors or inconsistencies, ensuring that the information you are working with is reliable and trustworthy.
+
+_Imagine that you work as a cashier at a supermarket, and your job is to record the prices of different products sold. Data testing in this context would involve verifying that the price you enter for each product is correct, ensuring that there are no typos or mistakes. You could compare the prices entered with a reference list or check with a coworker to validate the accuracy of the recorded data._
+
+### Duplicate Data
+
+Duplicate data refers to having multiple identical or near-identical copies of the same information within a dataset or system.
+
+_Consider the scenario where you are managing your contact list. In that list, you save the names, phone numbers, and emails of your friends. Now, let's say you accidentally add the same contact twice, resulting in duplicate data._
+
+### Orphaned Data
+Orphaned data is data that exists without any associated or meaningful context. Essentially, it is data that lacks connections or proper relationships with other data elements.
+
+_Think of a library where you find a book that is missing information about its author, its title, etc. This book becomes an orphaned book because it cannot be properly categorized or used, as it lacks the details that would make it valuable within the library system._
+
+_Similarly, in the data context, orphaned data could be a data entry without any corresponding information, such as a customer record without a name or contact details. This data becomes difficult to analyze or use effectively because it lacks the necessary context._
+
+
+### Incomplete or Missing Data
+Incomplete or missing data refers to information that is not fully available or lacks certain required details. This implies that there are gaps in the data that may hinder its usefulness for analysis or decision-making.
+
+_Imagine you are traveling and using a navigation app (Google Maps) that provides estimated travel times based on historical traffic data. However, if the app does not have updated information about traffic or road closures, you will not be able to accurately predict your travel time._
+
+_In this scenario, the incomplete or missing data is the absence of real-time traffic information. Similarly, in the data world, missing data could be encountered when analyzing customer behavior if certain variables are not captured or recorded._
+
+### Mislabeled Data
+Mislabeled data refers to information that has been incorrectly labeled or classified, leading to inaccurate or misleading information. This implies that the data does not accurately represent its true nature or meaning.
+
+_Imagine organizing a photo collection. You have a folder called "Hawaii vacation," but upon opening it, you find images from your Mexico vacation. In the context of data, mislabeled data can occur when incorrect labels are assigned._
+
+### Data Swamp
+A data swamp is a situation where a large amount of data becomes disorganized, unstructured, and difficult to use effectively. It is a state where data loses value and becomes stagnant or unusable due to a lack of proper management and organization.
+
+_Imagine your room filled with various objects like clothes, shoes, books, etc. The room is disorganized, and it becomes very difficult to find what you need. In this example, the messy room represents a data swamp._
+
+_Similarly, in the digital realm, a data swamp can arise when there is an overwhelming amount of disorganized data stored across various systems, databases, or files._
+
+### Data Temperature
+Data temperature helps organizations manage their data storage and retrieval strategies more efficiently, ensuring that frequently accessed and critical data are readily available while optimizing costs for less frequently accessed data.
+
+_In the data realm, data temperature is generally classified into Hot Data, Warm Data, and Cold Data. Hot data refers to data that is actively used and accessed frequently (like transactional data in a banking system), warm data refers to data that is accessed less frequently but is still relevant for analysis or decision-making (like historical sales data for analysis), and cold data refers to data that is rarely accessed and considered less critical (like data backups)._
+
+### Data Lineage
+Data lineage is the ability to track the origin and movement of data throughout its lifecycle. It helps you understand where data comes from, how it is transformed, and where it goes, enabling you to track and analyze the flow of data within a system or organization. In simple terms, data lineage is like tracing the footsteps of your data, allowing you to understand its journey from start to finish and gain insights into how it is used and transformed along the way.
+
+_Imagine ordering a product online. The e-commerce platform processes your order, which involves multiple steps such as inventory management, payment processing, and shipping. Data lineage in this scenario would involve tracking the journey of your order details from the moment you place the order until it arrives at your doorstep. For example, the data lineage might show that your order details originated in the online store's database, then moved to the payment system, and subsequently to the logistics department for shipping._
+
+### Data Migration
+Data migration is the process of transferring data from one system, application, or storage location to another. It involves moving the data from its current location to a new destination, ensuring its integrity, completeness, and compatibility. In short, it's like moving your digital data from one location to another, similar to moving physical items from one house to another during a relocation.
+
+_Imagine moving from an old house to a new one. As part of the move, you need to transfer all your belongings, including furniture, appliances, and personal items, from your old house to the new one. Data migration is similar to this process, but instead of physical objects, it involves moving digital data._
+
+_During the migration, it is important to consider factors such as data format compatibility, data security, and data validation to ensure a successful transfer._
+
+
+
+
+
+
+
+
 
 
 ### **Metadata**

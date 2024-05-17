@@ -1,11 +1,14 @@
 baseURL: "https://thedatafixer.xyz/"
 languageCode: en-us
-title: The Data Fixer 
+title: Omar Valdez | The Data Fixer
 theme: PaperMod
-paginate: 5
 
 enableRobotsTXT: true
 enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
 
 outputs:
   home:
@@ -15,50 +18,58 @@ outputs:
 
 params:
   env: production
+  title: The Data Fixer
+  Description:
   author: Omar Valdez
-  description: "#dataengineering #datainfra #datascience #bigdata"
+  description: "#dataengineering #datainfra #mlops #datascience #bigdata #dataanalytics"
   keywords: [blog, portfolio, theDataFixer, papermod]
+  defaultTheme: dark
+  disableThemeToggle: true
 
   label:
     icon: "/favicon/favicon.ico"
-    iconHeight: 35
+    iconHeight: 30
+    text: "~$ cd .."
+
+  homeInfoParams:
+    Title: "The Data Fixer"
 
   profileMode:
-    enabled: true
+    enabled: false
     title: The Data Fixer
-    subtitle: Desbloqueando el Potencial de los Datos
+    subtitle: Unleashing the data's potential
     imageURL: terrariaMaker.png
     imageWidth: 130
     imageHeight: 120
     imageTitle: https://demize.gg/TerrariaMaker/
     buttons:
-      - name: ¿Quién Soy? 
-        url: whoami
-      - name: Artículos
-        url: posts
- 
+      # - name: Who am I?
+      # url: whoami
+      # - name: Articles
+      # url: posts
+
   socialIcons:
     - name: "github"
-      url: "https://github.com/theDataFixer" 
+      url: "https://github.com/theDataFixer"
     - name: "youtube"
       url: "https://youtube.com/@theDataFixer"
-    - name: "linkedin"
-      url: "https://www.linkedin.com/in/omarvaldez5/"
+    - name: "spotify"
+      url: "https://podcasters.spotify.com/pod/show/ovaldez"
     - name: "telegram"
       url: "https://t.me/theDataFixer"
-    - name: "rss"
-      url: "https://thedatafixer.xyz/index.xml"
+    - name: "twitter"
+      url: "https://twitter.com/theDataFixer"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/omarvaldez5/"
     - name: "email"
       url: "mailto:info@thedatafixer.xyz"
-    
-  
+
   assets:
     favicon: "/favicon/favicon.ico"
     favicon16x16: "/favicon/favicon-16x16.png"
     favicon32x32: "/favicon/favicon-32x32.png"
     apple_touch_icon: "/favicon/apple-touch-icon.png"
     safari_pinned_tab: "/favicon/favicon-16x16.png"
-
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -71,17 +82,19 @@ params:
   hideSummary: false
   comments: true
 
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
 menu:
   main:
-    - name: Hablemos
-      url: /hablemos/
-      weight: 5 
-    - name: Usos
-      url: /usos/
+    - name: ~$whoami
+      url: /whoami/
+      weight: 7
+    - name: dotfiles
+      url: https://github.com/theDataFixer/dotfiles/
       weight: 5
     - name: Data For Dummies
       url: /datafordummies/
       weight: 6
-    - name: 🔍 
-      url: /search/
-      weight: 10 

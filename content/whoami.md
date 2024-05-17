@@ -3,8 +3,6 @@ title: "[~] $ whoami"
 url: "/whoami"
 ShowToc: false
 ShowReadingTime: false
-cover:
-    image: pic.jpg
 ---
 
 Soy Omar Valdez.
