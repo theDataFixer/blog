@@ -37,7 +37,7 @@ params:
   profileMode:
     enabled: false
     title: The Data Fixer
-    subtitle: Unleashing the data's potential
+    subtitle: Desbloqueando el potencial de los datos
     imageURL: terrariaMaker.png
     imageWidth: 130
     imageHeight: 120
