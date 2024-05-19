@@ -5,7 +5,7 @@ ShowToc: false
 ShowReadingTime: false
 ---
 
-Soy Omar Valdez.
+**Soy Omar Valdez.**
 
 Mi propósito es compartir mi conocimiento con la comunidad interesada en el fascinante mundo de los datos, y mi objetivo es abarcar todo el ecosistema del ciclo de vida de los datos, desde la generación hasta el despliegue. Además, quiero destacar los elementos clave que subyacen en el ciclo de vida de los datos, como la seguridad, la gestión de datos, las operaciones de datos (DataOps), la arquitectura de datos, la orquestación, y la ingeniería de software.
 
