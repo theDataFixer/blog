@@ -12,8 +12,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thedatafixer.xyz/whoami/</guid>
-      <description>Soy Omar Valdez.
-Mi propósito es compartir mi conocimiento con la comunidad interesada en el fascinante mundo de los datos, y mi objetivo es abarcar todo el ecosistema del ciclo de vida de los datos, desde la generación hasta el despliegue. Además, quiero destacar los elementos clave que subyacen en el ciclo de vida de los datos, como la seguridad, la gestión de datos, las operaciones de datos (DataOps), la arquitectura de datos, la orquestación, y la ingeniería de software.</description>
+      <description>I&amp;rsquo;m Omar Valdez.
+My purpose is to share my knowledge with the community interested in the fascinating world of data, and my goal is to encompass the entire data lifecycle ecosystem, from generation to deployment. Additionally, I want to highlight the key elements that underlie the data lifecycle, such as security, data management, DataOps (data operations), data architecture, orchestration, and software engineering.
+What I will NOT talk about:
+I will not focus on general topics.</description>
     </item>
     
     <item>
@@ -22,8 +24,8 @@ Mi propósito es compartir mi conocimiento con la comunidad interesada en el fas
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://thedatafixer.xyz/datafordummies/</guid>
-      <description>Si alguna vez te has sentido abrumado por términos como Data Lake, metadata o Data Governance, entonces llegaste al lugar correcto. Sé que incluso para un mismo concepto existen diferentes interpretaciones, por lo que mi intención no es definir, sino explicar de forma sencilla la palabra acompañado de un ejemplo o un contexto.
-Si crees que falta agregar o editar algo, puedes hacer un comentario al final de esta publicación, o de igual manera puedes contactarme de la forma que se te haga más fácil.</description>
+      <description>If you&amp;rsquo;ve ever felt overwhelmed by terms like Data Lake, metadata, or Data Governance, then you&amp;rsquo;ve come to the right place. I know that even for the same concept, there can be different interpretations, so my intention is not to define but to explain the word in a simple way, accompanied by an example or context.
+If you think something should be added or edited, you can leave a comment at the end of this post, or you can also contact me in whichever way is most convenient for you.</description>
     </item>
     
     
