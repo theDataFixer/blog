@@ -61,6 +61,8 @@ params:
       url: "https://twitter.com/theDataFixer"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/omarvaldez5/"
+    - name: "rss"
+      url: "https://thedatafixer.xyz/index.xml"
     - name: "email"
       url: "mailto:info@thedatafixer.xyz"
 

@@ -5,33 +5,33 @@ ShowToc: false
 ShowReadingTime: false
 ---
 
-**Soy Omar Valdez.**
+**I'm Omar Valdez.**
 
-Mi propósito es compartir mi conocimiento con la comunidad interesada en el fascinante mundo de los datos, y mi objetivo es abarcar todo el ecosistema del ciclo de vida de los datos, desde la generación hasta el despliegue. Además, quiero destacar los elementos clave que subyacen en el ciclo de vida de los datos, como la seguridad, la gestión de datos, las operaciones de datos (DataOps), la arquitectura de datos, la orquestación, y la ingeniería de software.
+My purpose is to share my knowledge with the community interested in the fascinating world of data, and my goal is to encompass the entire data lifecycle ecosystem, from generation to deployment. Additionally, I want to highlight the key elements that underlie the data lifecycle, such as security, data management, DataOps (data operations), data architecture, orchestration, and software engineering.
 
-De qué NO hablaré:
-- No me centraré en temas generales. No encontrarás contenido como "5 verdades sobre Python" o "Un día como Ingeniero de Datos/Científico de Datos".
-- No me centraré en noticias. Aunque se pueden discutir tendencias y avances en el campo de los datos, el objetivo principal no es proporcionar noticias diarias o eventos actuales.
-- No me centraré en teoría pura. El objetivo es proporcionar contenido práctico y útil, por lo que evitaré el enfoque excesivamente teórico sin ejemplos concretos o casos de uso.
+What I will NOT talk about:
 
-Una de mis metas principales es guiar aquellos que ya están inmersos en el mundo de los datos, pero desean profundizar en su comprensión, en su influencia, y sobre todo en su potencial.
+- I will not focus on general topics. You won't find content like _"5 truths about Python"_ or _"A day in the life of a Data Engineer/Data Scientist."_
+- I will not focus on news. Although trends and advances in the field of data can be discussed, the main objective is not to provide daily news or current events.
+- I will not focus on pure theory. The goal is to provide practical and useful content, so I will avoid overly theoretical approaches without concrete examples or use cases.
 
-Por medio de tutoriales, consejos prácticos, reflexiones personales y estudios de caso, este lugar será un recurso valioso para todos los entusiastas de datos, ya sea para un principiante curioso o un experto en busca de nuevas perspectivas.
+One of my main goals is to guide those who are already immersed in the world of data but wish to deepen their understanding, their influence, and above all, their potential.
 
-He desempeñado muchos roles en el universo de los datos: Analista de Datos, Analista de Business Intelligence, Científico de Datos, Ingeniero de Datos, y Arquitecto de Datos. Prácticamente mi experiencia con datos ha abarcado desde estar en primera línea creando informes hasta diseñar arquitecturas.
+Through tutorials, practical tips, personal reflections, and case studies, this place will be a valuable resource for all data enthusiasts, whether for a curious beginner or an expert seeking new perspectives.
 
-Los datos deben empoderar, no intimidar, y estoy aquí para cerrar esa brecha.
+I've held many roles in the data universe: Data Analyst, Business Intelligence Analyst, Data Scientist, Data Engineer, and Data Architect. Practically, my experience with data has ranged from being on the front lines creating reports to designing architectures.
+
+Data should empower, not intimidate, and I'm here to bridge that gap.
 
 ### Avatar
+Perhaps you're wondering about my avatar. Basically, it's a metaphorical representation of my approach to data:
 
-Quizás te estés preguntando acerca de mi avatar. Básicamente, es una representación metafórica de mi enfoque hacia los datos:
-
-- **Pixelado:** Al igual que los píxeles son los bloques de construcción de una imagen digital, los datos crudos forman la base de nuestro paisaje digital. Técnicamente, son la información no refinada, no procesada, que espera ser transformada.
-- **Fontanero:** Al igual que un fontanero que trabaja para reparar y mantener los sistemas de fontanería de un edificio, mi pensamiento es sumergirme profundamente en las tuberías de datos, desatascar cuellos de botella y asegurar el flujo de datos.
-- **Estética de videojuego:** Al igual que los juegos fomentan la exploración, la creatividad y la resolución de problemas, abordo los datos con un sentido de curiosidad y el deseo de hacerlos accesibles y atractivos para todos.
+- **Pixelated:** Just as pixels are the building blocks of a digital image, raw data forms the foundation of our digital landscape. Technically, it's unrefined, unprocessed information waiting to be transformed.
+- **Plumber:** Similar to a plumber who works to repair and maintain a building's plumbing systems, my mindset is to dive deep into data pipelines, unclog bottlenecks, and ensure the flow of data.
+- **Video game aesthetics:** Similar to how games foster exploration, creativity, and problem-solving, I tackle data with a sense of curiosity and a desire to make it accessible and engaging for everyone.
 
 &nbsp;
 
-Avatar creado en: https://demize.gg/TerrariaMaker/
+Avatar created at: https://demize.gg/TerrariaMaker/
 
-Contacto: **info@thedatafixer.xyz**
+Contact: **info@thedatafixer.xyz**
