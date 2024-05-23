@@ -2,6 +2,7 @@ baseURL: "https://thedatafixer.xyz/"
 languageCode: en-us
 title: Omar Valdez | The Data Fixer
 theme: PaperMod
+paginate: 5
 
 enableRobotsTXT: true
 enableEmoji: true
