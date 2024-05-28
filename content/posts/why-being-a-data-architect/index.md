@@ -2,8 +2,8 @@
 title: "Why being a Data Architect?"
 date: 2024-05-07
 summary: 
-tags: ["intro", "data architect"]
-draft: true
+tags: ["intro", "data architect", "pilot"]
+draft: false
 ---
 
 It is very important that data is accessible and reusable for society and industry. Nowadays, it is crucial that data have the capacity to be accessible and reusable not only for the workforce but also for normal users like someone using social media and trying to download their own information.
@@ -79,8 +79,8 @@ Now tell me, of all these roles that exist, which ones have you seen end up bein
 What I can tell you is that it's "normal" for this to happen, but it's crucial to keep in mind that there is the possibility for one data role to encompass several data roles.
 
 
-### Their Role in the Data Lifecycle
-It's important to understand that the data lifecycle is very different from the data engineering lifecycle. First, let's start with the data engineering lifecycle:
+### Their Role in the Data Engineering Lifecycle
+It's important to understand the data engineering lifecycle due to it's impact in every step of a project. (Basically, bring business value to stakeholders)
 
 * Generation
 * Storage
@@ -96,25 +96,47 @@ Projects must have intention throughout the entire lifecycle, both in engineerin
 
 That's what I want you to understand: A data architect has to evaluate, design, organize, and see the value in the phases of the project. A data engineer might do all of these tasks, but it's not their main job.
 
+For instance, let's think that you go a hospital and meet a doctor. Probably you know for sure the doctor will:
+* Examine your condition
+* Make a diagnosis
+* Prescribe medications
 
-### The Data Lifecycle
+And surely wouldn't do:
+* Clean the hospital
+* Make the medicine
+* Manage hospital administration
 
-data creation
-data storage
-data backup
-data analysis
-data disposal
+But what about data engineers? Expectations are unclear? They can or can't do:
+* Design the data warehouse data model
+* Handling application databases
+* Creating a data pipeline for machine learning
+* Handling all big data infrastructures and software installation
+* Analyzing big data to transform raw data into meaningful insights
 
-data identification
-data mapping
-data cleansing
-data transformation
-data validation
-data archiving
-data deletion
+As I mentioned before, if companies were more data mature, then there'll be better well-defined boundaries. In the end of the day it also depends of how the modern data managament tools rise with the increasing complexity of the data.
+
+#### So what should a Data Engineer do?
+I think there is a distribution of knowledge from an end-to-end data lifecycle, and that must clarify what skills/knowledge are a "must", what are "good-to-have", and what are "nice-to-have".
+
+However, a "must" in one company is a "nice-to-have" in another. It really depends on how the company and its customers operate.
 
 
-### Common Challenges in the World of Data
+### Common Challenges in the Data Realm 
+Not only as a Data Architect, but also being as one related role mentioned above you'll encounter common challenges in the data realm.
+
+If data maturity is low, you might encounter:
+* Data Silos
+* Limited data literacy
+* Inadequate infrastructure
+* Cultural resistance
+* Security vulnerabilities
+
+Now, if you go to the other end where data maturity is high, you may encounter:
+* Data Governance and Management issues
+* Innovation with emerging technologies
+* Develovpment and maintenance of advanced analytics 
+
+I mean, in both ends you might find a little bit of everything, but it's important to keep in mind that there is a lot of data that is not used correctly. When not used correctly, it might be because of a bad data architecture design, or a bad data governance or management, or bad data quality since creation.
 
 ### Conclusion
 
