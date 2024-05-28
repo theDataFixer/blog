@@ -8,14 +8,15 @@ draft: false
 
 It is very important that data are accessible and reusable for society and industry. Nowadays, it is crucial that data have the capacity to be accessible and reusable not only for the workforce but also for regular users, such as someone using social media and trying to download their own information.
 
-Creating or generating, saving, ingesting, transforming, processing, and visualizing data is a task that requires time and effort. Additionally, maintaining security, executing administration, performing operations, detailing orchestration, preserving good software engineering practices, and defining data architecture strategy are extremely critical aspects for the data ecosystem.
+Creating, saving, ingesting, transforming, processing, and visualizing data are tasks that require time and effort. Additionally, maintaining security, executing administration, performing operations, detailing orchestration, preserving good software engineering practices, and defining data architecture strategy are extremely critical aspects of the data ecosystem.
 
-Of all these points I mentioned, I want to focus on what data architecture is. There are several data roles in the workforce that sometimes become overwhelming, or even a bit difficult to distinguish between one role and another.
+Of all these points I mentioned, I want to focus on what data architecture is. There are several data roles in the workforce that sometimes become overwhelming or even a bit difficult to distinguish from one role to another.
 
-If you're familiar with data roles or rather if you have experience working with data, you'll agree that sometimes a Data Analyst does the work of a Data Engineer, or vice versa. Likewise, a Data Scientist may be working for a company solely doing SQL queries and Dashboards. I could continue with countless examples, but to not go into too much detail, this practically depends on the data maturity of the company, organization, or project.
+If you're familiar with data roles or rather if you have experience working with data, you'll agree that sometimes a Data Analyst does the work of a Data Engineer, or vice versa. Likewise, a Data Scientist may be working for a company solely doing SQL queries and dashboards. I could continue with countless examples, but to not go into too much detail, this practically depends on the data maturity of the company, organization, or project.
 
 
 ### What is a Data Architect?
+
 If you search on the internet, in books, or consult someone with experience in data, you may come across different definitions of what a data architect is.
 
 According to the book _"Deciphering Data Architectures"_ by James Serra:
