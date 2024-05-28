@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Data Architect on Omar Valdez | The Data Fixer</title>
-    <link>http://localhost:1313/tags/data-architect/</link>
-    <description>Recent content in Data Architect on Omar Valdez | The Data Fixer</description>
+    <title>data architect on Omar Valdez | The Data Fixer</title>
+    <link>https://thedatafixer.xyz/tags/data-architect/</link>
+    <description>Recent content in data architect on Omar Valdez | The Data Fixer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-architect/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedatafixer.xyz/tags/data-architect/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why a Data Architect?</title>
-      <link>http://localhost:1313/posts/why-a-data-architect/</link>
-      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <title>Why being a Data Architect?</title>
+      <link>https://thedatafixer.xyz/posts/why-being-a-data-architect/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/why-a-data-architect/</guid>
-      <description>Intro Es muy importante que los datos sean accesibles y reutilizables para la sociedad y para la industria. Hoy por hoy es crucial que los datos tengan la capacidad de que sean accesibles y reutilizables no solo para el sector laboral, sino también uno como usuario.
-Crear o generar, guardar, ingestar, transformar, procesar y visualizar los datos es una tarea que requiere tiempo y esfuerzo. Además, mantener la seguridad, ejecutar la administración, realizar la operación, detallar la orquestación, conservar las buenas prácticas de la ingeniería de software, y definir la estrategia de la arquitectura de datos son aspectos sumamente críticos para el ecosistema de datos.</description>
+      <guid>https://thedatafixer.xyz/posts/why-being-a-data-architect/</guid>
+      <description>It is very important that data is accessible and reusable for society and industry. Nowadays, it is crucial that data has the capacity to be accessible and reusable not only for the workforce but also for regular users, such as someone using social media and trying to download their own information.
+Creating, saving, ingesting, transforming, processing, and visualizing data are tasks that require time and effort. Additionally, maintaining security, executing administration, performing operations, detailing orchestration, preserving good software engineering practices, and defining data architecture strategy are extremely critical aspects of the data ecosystem.</description>
     </item>
     
   </channel>
