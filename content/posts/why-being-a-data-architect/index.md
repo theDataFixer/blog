@@ -30,7 +30,7 @@ According to _DAMA DMBOK_:
 According to the book _"Fundamentals of Data Engineering"_ written by Joe Ries & Matt Housley:
 > They function as a level of abstraction from data engineers. Data architects design the model for organizational data management, mapping processes and overall data architecture and systems. They also serve as a bridge between the technical and non-technical aspects of an organization.
 
-They also have another defintion:
+They also have another definition:
 > It is the one who designs systems to support a company's changing data needs, achieved through flexible and reversible decisions reached through careful evaluation of trade-offs.
 
 &nbsp;
