@@ -87,7 +87,7 @@ What I can tell you is that it's "normal" for this to happen, but it's crucial t
 
 
 ### Their Role in the Data Engineering Lifecycle
-It's important to understand the data engineering lifecycle due to it's impact in every step of a project. (Basically, bring business value to stakeholders)
+It's important to understand the data engineering lifecycle due to its impact in every step of a project. (Basically, bring business value to stakeholders)
 
 * Generation
 * Storage
