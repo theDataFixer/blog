@@ -1,6 +1,6 @@
 ---
 title: "Why being a Data Architect?"
-date: 2024-05-07
+date: 2024-05-27
 summary: 
 tags: ["intro", "data architect", "pilot"]
 draft: false

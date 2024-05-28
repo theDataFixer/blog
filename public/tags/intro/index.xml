@@ -8,13 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/intro/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why a Data Architect?</title>
-      <link>http://localhost:1313/posts/why-a-data-architect/</link>
+      <title>Pilot</title>
+      <link>http://localhost:1313/posts/why-being-a-data-architect/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/why-a-data-architect/</guid>
-      <description>Intro Es muy importante que los datos sean accesibles y reutilizables para la sociedad y para la industria. Hoy por hoy es crucial que los datos tengan la capacidad de que sean accesibles y reutilizables no solo para el sector laboral, sino también uno como usuario.
-Crear o generar, guardar, ingestar, transformar, procesar y visualizar los datos es una tarea que requiere tiempo y esfuerzo. Además, mantener la seguridad, ejecutar la administración, realizar la operación, detallar la orquestación, conservar las buenas prácticas de la ingeniería de software, y definir la estrategia de la arquitectura de datos son aspectos sumamente críticos para el ecosistema de datos.</description>
+      <guid>http://localhost:1313/posts/why-being-a-data-architect/</guid>
+      <description>It is very important that data is accessible and reusable for society and industry. Nowadays, it is crucial that data have the capacity to be accessible and reusable not only for the workforce but also for normal users like someone using social media and trying to download their own information.
+Creating or generating, saving, ingesting, transforming, processing, and visualizing data is a task that requires time and effort. Additionally, maintaining security, executing administration, performing operations, detailing orchestration, preserving good software engineering practices, and defining data architecture strategy are extremely critical aspects for the data ecosystem.</description>
     </item>
     
   </channel>
