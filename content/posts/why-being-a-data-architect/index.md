@@ -60,7 +60,7 @@ Besides strategy and tactics, data architects must be aware of three main aspect
 * Accuracy
 * Consistency
 
-Most of the times, the stakeholders don't know what exactly they are dealing with so it's crucial to be present when making those functional requirements, it's an art in my humble opinion; if you're lucky they just know that they need to integrate and leverage data. (Believe me, sometimes that's a really good starting point)
+Most of the time, the stakeholders don't know what exactly they are dealing with, so it's crucial to be present when making those functional requirements. It's an art in my humble opinion; if you're lucky, they just know that they need to integrate and leverage data. (Believe me, sometimes that's a really good starting point)
 
 #### But these tasks are made by a Data Engineer, right?
 It's true that a data engineer can do all of this, but as mentioned earlier, data architects function as a level of abstraction. Furthermore, I'm not an expert in buildings or houses or apartments, but I know that a civil engineer could do the work of an architect. So why do architects exist? Because they focus on strategy and tactics, while engineers turn what is designed into reality.
