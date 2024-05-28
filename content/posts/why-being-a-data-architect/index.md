@@ -55,6 +55,13 @@ Strategy involves the questions of **what, why, and when**, while tactics involv
 
 It's not that these are the only questions asked by a data architect, but what I want you to understand is that it's not correct to say, _"We have X, Y, and Z tools to extract and analyze data"_ because that brings negative consequences to the solution design.
 
+Besides strategy and tactics, data architects must be aware of three main aspects when embarking on a new data architecture design:
+* Completeness
+* Accuracy
+* Consistency
+
+Most of the times, the stakeholders don't know what exactly they are dealing with so it's crucial to be present when making those functional requirements, it's an art in my humble opinion; if you're luck yhey just know that they need to integrate and leverage data. (Believe me, sometimes that's a really good starting point)
+
 #### But these tasks are made by a Data Engineer, right?
 It's true that a data engineer can do all of this, but as mentioned earlier, data architects function as a level of abstraction. Furthermore, I'm not an expert in buildings or houses or apartments, but I know that a civil engineer could do the work of an architect. So why do architects exist? Because they focus on strategy and tactics, while engineers turn what is designed into reality.
 
@@ -139,7 +146,11 @@ Now, if you go to the other end where data maturity is high, you may encounter:
 I mean, in both ends you might find a little bit of everything, but it's important to keep in mind that there is a lot of data that is not used correctly. When not used correctly, it might be because of a bad data architecture design, or a bad data governance or management, or bad data quality since creation.
 
 ### Conclusion
-In summary, a Data Architect plays a pivotal role in shaping the data landscape of an organization. They are responsible for designing robust data architectures that ensure data is accessible, reliable, and secure. By focusing on both strategic and tactical aspects, Data Architects bridge the gap between business needs and technical implementation. Their expertise in evaluating trade-offs and designing flexible systems is crucial for adapting to evolving data requirements. Ultimately, Data Architects enable organizations to leverage their data assets effectively, driving business value and innovation.
+In summary, a Data Architect plays a pivotal role in shaping the data landscape of an organization. They are responsible for designing robust data architectures that ensure data is accessible, reliable, and secure.
+
+By focusing on both strategic and tactical aspects, Data Architects bridge the gap between business needs and technical implementation. Their expertise in evaluating trade-offs and designing flexible systems is crucial for adapting to evolving data requirements.
+
+Ultimately, Data Architects enable organizations to leverage their data assets effectively, driving business value and innovation.
 
 ### TL;DR
 A Data Architect designs the structure of data storage, organization, and utilization, ensuring data quality and flexibility. They focus on strategy and tactics, working closely with data engineers to implement the designed architecture. Understanding the data engineering lifecycle and common challenges is crucial for adding business value.
