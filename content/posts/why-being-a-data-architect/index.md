@@ -6,7 +6,7 @@ tags: ["intro", "data architect", "pilot"]
 draft: false
 ---
 
-It is very important that data are accessible and reusable for society and industry. Nowadays, it is crucial that data have the capacity to be accessible and reusable not only for the workforce but also for regular users, such as someone using social media and trying to download their own information.
+It is very important that data is accessible and reusable for society and industry. Nowadays, it is crucial that data has the capacity to be accessible and reusable not only for the workforce but also for regular users, such as someone using social media and trying to download their own information.
 
 Creating, saving, ingesting, transforming, processing, and visualizing data are tasks that require time and effort. Additionally, maintaining security, executing administration, performing operations, detailing orchestration, preserving good software engineering practices, and defining data architecture strategy are extremely critical aspects of the data ecosystem.
 
