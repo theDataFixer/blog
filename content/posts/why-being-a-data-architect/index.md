@@ -44,7 +44,7 @@ Summarizing all of these definitions, it could be done like this:
 - They create rules and policies to ensure that data is of high quality and reliable.
 - They ensure that data systems are flexible and can adapt to the changing needs of the company.
 
-They function as _data engineers_ (abstraction), designing necessary systems for the entire data lifecycle so that companies can maximize their data.
+They function as designers, developing necessary systems for the entire data lifecycle so that companies can maximize their data.
 
 A data architect analyzes the pros and cons, designs with agility, and adds value to the business.
 
@@ -128,7 +128,7 @@ As I mentioned before, if companies were more data mature, then there will be be
 
 #### What should a Data Engineer do?
 
-I believe they should have a broad understanding of the entire data lifecycle, distinguishing between essential skills/knowledge, beneficial skills/knowledge, and optional skills/knowledge.
+I believe they should have a broad understanding of the entire data lifecycle, distinguishing between essential, beneficial, and/or optional skills.
 
 However, what is considered essential in one company may be seen as optional in another. It ultimately depends on the specific operations and needs of the company and its customers.
 
@@ -152,11 +152,11 @@ In both scenarios, there may be a variety of challenges, but it is important to 
 
 ### Conclusion
 
-In conclusion, a Data Architect plays a crucial role in shaping the data landscape of an organization. They are responsible for creating strong data architectures that guarantee data accessibility, reliability, and security.
+A Data Architect plays a crucial role in shaping the data landscape of an organization. They are responsible for creating strong data architectures that guarantee data accessibility, reliability, and security.
 
 By addressing both strategic and tactical aspects, Data Architects bridge the gap between business requirements and technical implementation. Their ability to assess trade-offs and develop adaptable systems is essential for meeting changing data needs.
 
-Ultimately, Data Architects empower organizations to effectively utilize their data resources, driving business value and innovation.
+At last, Data Architects empower organizations to effectively utilize their data resources, driving business value and innovation.
 
 ### TL;DR
 
