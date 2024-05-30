@@ -14,6 +14,7 @@ Out of all these points, I want to focus on data architecture. There are various
 
 If you have experience working with data, you may have noticed that sometimes a Data Analyst performs tasks typically done by a Data Engineer, or vice versa. Similarly, a Data Scientist may be focused solely on SQL queries and dashboards for a company. This variation in roles often depends on the data maturity of the company, organization, or project.
 
+![](./dataarch.jpg)
 
 ### What is a Data Architect?
 
@@ -48,6 +49,7 @@ They function as designers, developing necessary systems for the entire data lif
 
 A data architect analyzes the pros and cons, designs with agility, and adds value to the business.
 
+![](./dataperson.jpg)
 
 ### And what is NOT a Data Architect?
 
@@ -67,6 +69,8 @@ Often, stakeholders may not have a clear understanding of what they are dealing 
 #### But are these tasks typically performed by a Data Engineer?
 
 It is true that a data engineer is capable of handling all of these tasks, but as previously mentioned, data architects operate at a higher level of abstraction. Additionally, while I am not an expert in construction, I understand that a civil engineer could fulfill the duties of an architect. So why do architects exist? They focus on strategy and tactics, while engineers bring designs to life.
+
+![](./why.jpg)
 
 A Data Engineer is tasked with creating, testing, and maintaining data architecture. They write scripts to extract, load, and transform data from various sources to create a data solution, collaborating closely with a data architect to implement the planned architecture.
 
@@ -116,6 +120,8 @@ And surely wouldn't do:
 * Clean the hospital
 * Make the medicine
 * Manage hospital administration
+
+![](./doctor.jpg)
 
 But what about data engineers? Are expectations unclear? Can they:
 * Design the data warehouse data model
