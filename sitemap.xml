@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thedatafixer.xyz/posts/why-being-a-data-architect/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thedatafixer.xyz/tags/arquitectura-de-datos/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thedatafixer.xyz/tags/data-architect/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,13 +20,13 @@
     <loc>https://thedatafixer.xyz/tags/pilot/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://thedatafixer.xyz/tags/piloto/</loc>
+    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thedatafixer.xyz/posts/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedatafixer.xyz/tags/</loc>
-    <lastmod>2024-05-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thedatafixer.xyz/posts/why-being-a-data-architect/</loc>
     <lastmod>2024-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thedatafixer.xyz/whoami/</loc>
