@@ -8,13 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-architect/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why being a Data Architect?</title>
+      <title>¿Por qué ser un Arquitecto de Datos?</title>
       <link>http://localhost:1313/posts/why-being-a-data-architect/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/why-being-a-data-architect/</guid>
-      <description>It is crucial that data is accessible and reusable for society and industry. Nowadays, it is essential that data can be accessed and repurposed not only by professionals but also by regular users, such as those using social media and trying to download their own information.
-Tasks such as creating, saving, ingesting, transforming, processing, and visualizing data require time and effort. Additionally, maintaining security, executing administration, performing operations, detailing orchestration, preserving good software engineering practices, and defining data architecture strategy are all critical aspects of the data ecosystem.</description>
+      <description>Es crucial que los datos sean accesibles y reutilizables para la sociedad y la industria. Hoy en día, es esencial que los datos puedan ser accedidos y reutilizados no solo por profesionales, sino también por usuarios regulares, como aquellos que utilizan las redes sociales e intentan descargar su propia información.
+Tareas como crear, guardar, ingerir, transformar, procesar y visualizar datos requieren tiempo y esfuerzo. Además, mantener la seguridad, ejecutar la administración, realizar operaciones, detallar la orquestación, preservar buenas prácticas de ingeniería de software y definir la estrategia de arquitectura de datos son aspectos críticos del ecosistema de datos.</description>
     </item>
     
   </channel>

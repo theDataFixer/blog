@@ -1,82 +1,82 @@
 ---
-title: "Why being a Data Architect?"
+title: "¿Por qué ser un Arquitecto de Datos?"
 date: 2024-05-27
 summary: 
-tags: ["intro", "data architect", "pilot"]
+tags: ["intro", "data architect", "pilot", "arquitectura de datos", "piloto"]
 draft: false
 ---
 
-It is crucial that data is accessible and reusable for society and industry. Nowadays, it is essential that data can be accessed and repurposed not only by professionals but also by regular users, such as those using social media and trying to download their own information.
+Es crucial que los datos sean accesibles y reutilizables para la sociedad y la industria. Hoy en día, es esencial que los datos puedan ser accedidos y reutilizados no solo por profesionales, sino también por usuarios regulares, como aquellos que utilizan las redes sociales e intentan descargar su propia información.
 
-Tasks such as creating, saving, ingesting, transforming, processing, and visualizing data require time and effort. Additionally, maintaining security, executing administration, performing operations, detailing orchestration, preserving good software engineering practices, and defining data architecture strategy are all critical aspects of the data ecosystem.
+Tareas como crear, guardar, ingerir, transformar, procesar y visualizar datos requieren tiempo y esfuerzo. Además, mantener la seguridad, ejecutar la administración, realizar operaciones, detallar la orquestación, preservar buenas prácticas de ingeniería de software y definir la estrategia de arquitectura de datos son aspectos críticos del ecosistema de datos.
 
-Out of all these points, I want to focus on data architecture. There are various data roles in the workforce that can sometimes be overwhelming or difficult to distinguish from one another.
+De todos estos puntos, quiero centrarme en la arquitectura de datos. Hay varios roles de datos en la fuerza laboral que a veces pueden resultar abrumadores o difíciles de distinguir entre sí.
 
-If you have experience working with data, you may have noticed that sometimes a Data Analyst performs tasks typically done by a Data Engineer, or vice versa. Similarly, a Data Scientist may be focused solely on SQL queries and dashboards for a company. This variation in roles often depends on the data maturity of the company, organization, or project.
+Si tienes experiencia trabajando con datos, es posible que hayas notado que a veces un Analista de Datos realiza tareas típicamente realizadas por un Ingeniero de Datos, o viceversa. De manera similar, un Científico de Datos puede estar enfocado únicamente en consultas SQL y paneles para una empresa. Esta variación en roles a menudo depende de la madurez de los datos de la empresa, organización o proyecto.
 
 ![](./dataarch.jpg)
 
-### What is a Data Architect?
+### ¿Qué es un Arquitecto de Datos?
 
-If you search on the internet, in books, or consult someone with experience in data, you may come across different definitions of what a data architect is.
+Si buscas en internet, en libros, o consultas a alguien con experiencia en datos, es posible que te encuentres con diferentes definiciones de lo que es un arquitecto de datos.
 
-According to the book _"Deciphering Data Architectures"_ by James Serra:
-> They are the ones who design the high-level structure of the data architecture (MDW, data fabric, or data lakehouse) and decide which data governance technologies and policies the project should use.
+Según el libro _"Deciphering Data Architectures"_ de James Serra:
+> Ellos son los que diseñan la estructura de alto nivel de la arquitectura de datos (MDW, data fabric o data lakehouse) y deciden qué tecnologías y políticas de gobernanza de datos debe usar el proyecto.
 
-According to _TOGAF_:
-> They are responsible for describing the structure and interaction of the main types and sources of data, logical data assets, physical data assets, and data management resources of the enterprise.
+Según _TOGAF_:
+> Son responsables de describir la estructura e interacción de los principales tipos y fuentes de datos, activos de datos lógicos, activos de datos físicos y recursos de gestión de datos de la empresa.
 
-According to _DAMA DMBOK_:
-> They are the ones who identify the data needs of the company (regardless of structure) and design and maintain master plans to guide data integration, control data assets, and align data investments with business strategy.
+Según _DAMA DMBOK_:
+> Son quienes identifican las necesidades de datos de la empresa (independientemente de la estructura) y diseñan y mantienen planes maestros para guiar la integración de datos, controlar los activos de datos y alinear las inversiones de datos con la estrategia empresarial.
 
-According to the book _"Fundamentals of Data Engineering"_ written by Joe Ries & Matt Housley:
-> They function as a level of abstraction from data engineers. Data architects design the model for organizational data management, mapping processes and overall data architecture and systems. They also serve as a bridge between the technical and non-technical aspects of an organization.
+Según el libro _"Fundamentals of Data Engineering"_ escrito por Joe Ries & Matt Housley:
+> Funcionan como un nivel de abstracción de los ingenieros de datos. Los arquitectos de datos diseñan el modelo para la gestión de datos organizativos, mapeando procesos y arquitectura general de datos y sistemas. También sirven como puente entre los aspectos técnicos y no técnicos de una organización.
 
-They also have another definition:
-> It is the one who designs systems to support a company's changing data needs, achieved through flexible and reversible decisions reached through careful evaluation of trade-offs.
+También tienen otra definición:
+> Es quien diseña sistemas para apoyar las cambiantes necesidades de datos de una empresa, logradas a través de decisiones flexibles y reversibles alcanzadas mediante una cuidadosa evaluación de compensaciones.
 
 &nbsp;
 
-Now, which definition should be chosen?
+¿Ahora, cuál definición debería ser elegida?
 
-Summarizing all of these definitions, it could be done like this:
-- They design the overall structure of how data is stored, organized, and utilized.
-- They decide which technologies will be used to manage the data.
-- They create rules and policies to ensure that data is of high quality and reliable.
-- They ensure that data systems are flexible and can adapt to the changing needs of the company.
+Resumiendo todas estas definiciones, se podría encapsular de la siguiente manera:
+- Diseñan la estructura general de cómo se almacenan, organizan y utilizan los datos.
+- Deciden qué tecnologías se utilizarán para gestionar los datos.
+- Crean reglas y políticas para garantizar que los datos sean de alta calidad y confiables.
+- Aseguran que los sistemas de datos sean flexibles y puedan adaptarse a las necesidades cambiantes de la empresa.
 
-They function as designers, developing necessary systems for the entire data lifecycle so that companies can maximize their data.
+Funcionan como diseñadores, desarrollando sistemas necesarios para todo el ciclo de vida de los datos para que las empresas puedan maximizar y potenciar el valor de sus datos.
 
-A data architect analyzes the pros and cons, designs with agility, and adds value to the business.
+Un arquitecto de datos analiza los pros y los contras, diseña con agilidad y agrega valor al negocio.
 
 ![](./dataperson.jpg)
 
-### And what is NOT a Data Architect?
+### ¿Y qué NO es un Arquitecto de Datos?
 
-Everything related to both strategy and tactics can be considered as Data Architecture.
+Todo lo relacionado tanto con la estrategia y con la táctica se puede considerar como parte de Arquitectura de Datos.
 
-Strategy involves the questions of **what, why, and when**, while tactics involve the **how**. Let's say someone from your company approaches you and expresses the need to integrate information from various sources in order to utilize the data. As a data architect, you must begin by investigating what exactly they are dealing with, understanding why they want that integration and data utilization, and determining when they require this type of solution.
+La estrategia implica las preguntas de **qué, por qué y cuándo**, mientras que las tácticas involucran el **cómo**. Digamos que alguien de tu empresa se acerca a ti y expresa la necesidad de integrar información de diversas fuentes para utilizar los datos. Como arquitecto de datos, debes comenzar investigando con qué exactamente están lidiando, comprendiendo por qué desean esa integración y utilización de datos, y determinando cuándo necesitan este tipo de solución.
 
-These are not the only questions that a data architect asks, but the point I want to emphasize is that it is not accurate to simply state, _"We have X, Y, and Z tools to extract and analyze data,"_ as this can have negative consequences on the solution design.
+Estas no son las únicas preguntas que hace un arquitecto de datos, pero el punto que quiero enfatizar es que no es preciso simplemente afirmar, _"Tenemos herramientas X, Y y Z para extraer y analizar datos,"_ ya que esto puede tener consecuencias negativas en el diseño de la solución.
 
-In addition to strategy and tactics, data architects must consider three main aspects when developing a new data architecture:
-* Completeness
-* Accuracy
-* Consistency
+Además de la estrategia y la táctica, los arquitectos de datos deben considerar tres aspectos principales al desarrollar una nueva arquitectura de datos:
+* Completitud
+* Precisión
+* Consistencia
 
-Often, stakeholders may not have a clear understanding of what they are dealing with, so it is essential to be present when defining those functional requirements. In my opinion, it is an art; sometimes, stakeholders may only know that they need to integrate and utilize data, which can actually be a good starting point.
+A menudo, los interesados pueden no tener una comprensión clara de con qué están lidiando, por lo que es esencial estar presente al definir esos requisitos funcionales. En mi opinión, es un arte; a veces, los interesados solo pueden saber que necesitan integrar y utilizar datos, lo cual puede ser en realidad un buen punto de partida.
 
-#### But are these tasks typically performed by a Data Engineer?
+#### ¿Pero estas tareas generalmente son realizadas por un Ingeniero de Datos, correcto?
 
-It is true that a data engineer is capable of handling all of these tasks, but as previously mentioned, data architects operate at a higher level of abstraction. Additionally, while I am not an expert in construction, I understand that a civil engineer could fulfill the duties of an architect. So why do architects exist? They focus on strategy and tactics, while engineers bring designs to life.
+Es cierto que un ingeniero de datos es capaz de manejar todas estas tareas, pero como se mencionó anteriormente, los arquitectos de datos operan a un nivel más alto de abstracción. Además, aunque no soy un experto en construcción, entiendo que un ingeniero civil podría cumplir con las funciones de un arquitecto. Entonces, ¿por qué existen los arquitectos? Porque los arquitectos se centran en la estrategia y la táctica, mientras que los ingenieros dan vida a los diseños.
 
 ![](./why.jpg)
 
-A Data Engineer is tasked with creating, testing, and maintaining data architecture. They write scripts to extract, load, and transform data from various sources to create a data solution, collaborating closely with a data architect to implement the planned architecture.
+Un ingeniero de datos tiene la tarea de crear, probar y mantener la arquitectura de datos. Escriben scripts para extraer, cargar y transformar datos de diversas fuentes para crear una solución de datos, colaborando estrechamente con un arquitecto de datos para implementar la arquitectura planificada.
 
-While an engineer can perform architectural work, it is important to define their limitations, objectives, tasks, and scope. This is crucial because you may have encountered situations in your workplace where an engineer takes on more responsibilities than necessary.
+Si bien un ingeniero puede realizar trabajo arquitectónico, es importante definir sus limitaciones, objetivos, tareas y alcance. Esto es crucial porque es posible que hayas encontrado situaciones en tu lugar de trabajo donde un ingeniero asume más responsabilidades de las necesarias.
 
-Now, out of all these roles, have you observed any instances where they have been combined?
+Ahora, de todos estos roles, ¿has observado alguna posición en la que se hayan combinado las tareas?
 - Data Analyst
 - Data Scientist
 - Business Analyst
@@ -90,81 +90,80 @@ Now, out of all these roles, have you observed any instances where they have bee
 - DevOps Engineer
 - Product Owner/Manager
 
-It is not uncommon for roles to be combined, but it is essential to remember that one data role may encompass multiple responsibilities.
+No es raro que los roles se combinen, pero es esencial recordar que un rol de datos puede abarcar múltiples responsabilidades.
 
 
-### Their Role in the Data Engineering Lifecycle
+### Su rol en el ciclo de vida de datos de ingeniería
 
-Understanding the data engineering lifecycle is crucial due to its impact on every stage of a project, ultimately bringing business value to stakeholders.
+Comprender el ciclo de vida de la ingeniería de datos es importante debido a su impacto en cada etapa de un proyecto, brindando en última instancia valor comercial a las partes interesadas.
 
-* Generation
-* Storage
-* Ingestion
-* Transformation
-* Visualization or delivery
+* Generación
+* Almacenamiento
+* Ingestión
+* Transformación
+* Visualización o entrega
 
-Data holds value at each phase of this cycle, and data that is not consumed or consulted can pose a risk to any company. Many companies, in their pursuit of ambitious projects in the age of big data, have collected massive amounts of data that ultimately went unused.
+Los datos tienen valor en cada fase de este ciclo, y los datos que no se consumen o consultan pueden representar un riesgo para cualquier empresa. Muchas empresas, en su búsqueda de proyectos ambiciosos en la era del big data, han recopilado cantidades masivas de datos que finalmente no se utilizaron.
 
-Projects must be intentional throughout the entire lifecycle, both in engineering and in data. A data engineer is responsible for extracting information in a timely manner, following proper security and integration protocols, and any other necessary tasks.
+Los proyectos deben ser intencionales a lo largo de todo el ciclo de vida, tanto en la ingeniería como en los datos. Un ingeniero de datos es responsable de extraer información de manera oportuna, siguiendo los protocolos adecuados de seguridad e integración, y cualquier otra tarea necesaria.
 
-#### But does a data engineer's job end here?
+#### ¿Pero el trabajo de un Ingeniero de Datos termina aquí?
 
-That's what I want you to understand: A data architect has to evaluate, design, organize, and see the value in the phases of the project. A data engineer might do all of these tasks, but it's not their main job.
+Eso es lo que quiero que entiendas y a lo que quiero llegar: Un arquitecto de datos tiene que evaluar, diseñar, organizar y ver el valor en las fases del proyecto. Un ingeniero de datos podría realizar todas estas tareas, pero no es su trabajo principal.
 
-For instance, let's think that you go to a hospital and meet a doctor. Probably you know for sure the doctor will:
-* Examine your condition
-* Make a diagnosis
-* Prescribe medications
+Por ejemplo, imaginemos que vas a un hospital y conoces a un médico. Probablemente sabes con certeza que el médico:
+* Examinará tu condición
+* Realizará un diagnóstico
+* Recetará medicamentos
 
-And surely wouldn't do:
-* Clean the hospital
-* Make the medicine
-* Manage hospital administration
+Y seguramente no haría:
+* Limpiar el hospital
+* Fabricar el medicamento
+* Gestionar la administración del hospital
 
 ![](./doctor.jpg)
 
-But what about data engineers? Are expectations unclear? Can they:
-* Design the data warehouse data model
-* Handle application databases
-* Create a data pipeline for machine learning
-* Manage all big data infrastructures and software installation
-* Analyze big data to transform raw data into meaningful insights
+Pero ¿qué pasa con los ingenieros de datos? ¿Las expectativas no están claras? Lo que pasa, es que ellos pueden:
 
-As I mentioned before, if companies were more data mature, then there will be better well-defined boundaries. In the end of the day, it also depends on how modern data management tools rise with the increasing complexity of the data.
+* Diseñar el modelo de datos de un Data Warehouse
+* Manejar bases de datos de aplicaciones
+* Crear un pipeline de datos para Machine Learning
+* Gestionar todas las infraestructuras de big data e instalación de software
+* Analizar big data para transformar datos crudos en información significativa
 
-#### What should a Data Engineer do?
+Como mencioné anteriormente, si las empresas fueran más maduras en datos, entonces habría límites mejor definidos. Al final del día, también depende de cómo las herramientas en lo que se le conoce como "modern data mangamenet" incrementan con la creciente complejidad de los datos.
 
-I believe they should have a broad understanding of the entire data lifecycle, distinguishing between essential, beneficial, and/or optional skills.
+#### ¿Qué es lo que un Ingeniero de Datos debería de hacer?
 
-However, what is considered essential in one company may be seen as optional in another. It ultimately depends on the specific operations and needs of the company and its customers.
+Creo que deberían tener una comprensión amplia de todo el ciclo de vida de los datos, distinguiendo entre habilidades esenciales, beneficiosas y/o opcionales.
+
+Sin embargo, lo que se considera esencial en una empresa puede ser visto como opcional en otra. En última instancia, depende de las operaciones específicas y las necesidades de la empresa y sus clientes.
 
 
-### Common Challenges in the Data Realm 
-As a Data Architect or in a related role, you will encounter common challenges in the data realm.
+### Desafíos Comunes en el Ámbito de los Datos
 
-If data maturity is low, you may encounter:
-* Data Silos
-* Limited data literacy
-* Inadequate infrastructure
-* Cultural resistance
-* Security vulnerabilities
+Si la madurez de los datos es baja, es posible que encuentres:
+* Silos de datos
+* Infraestructura inadecuada
+* Resistencia cultural
+* Vulnerabilidades de seguridad
 
-On the other hand, if data maturity is high, you may encounter:
-* Data Governance and Management issues
-* Innovation with emerging technologies
-* Development and maintenance of advanced analytics 
+Por otro lado, si la madurez de los datos es alta, es posible que encuentres:
+* Problemas de Gobierno y Gestión de Datos
+* Innovación con tecnologías emergentes
+* Desarrollo y mantenimiento de análisis avanzados
 
-In both scenarios, there may be a variety of challenges, but it is important to recognize that a lot of data is not being utilized effectively. This could be due to poor data architecture design, inadequate data governance or management, or low data quality since its creation.
+En ambos escenarios, puede haber una variedad de desafíos, pero es importante reconocer que muchos datos no se están utilizando de manera efectiva. Esto podría deberse a un diseño deficiente de la arquitectura de datos, una gobernanza o gestión de datos inadecuada, o una baja calidad de datos desde su creación.
 
-### Conclusion
+### Conclusión
 
-A Data Architect plays a crucial role in shaping the data landscape of an organization. They are responsible for creating strong data architectures that guarantee data accessibility, reliability, and security.
+Un Arquitecto de Datos juega un papel crucial en la configuración del panorama de datos de una organización. Son responsables de crear arquitecturas de datos sólidas que garanticen la accesibilidad, confiabilidad y seguridad de los datos.
 
-By addressing both strategic and tactical aspects, Data Architects bridge the gap between business requirements and technical implementation. Their ability to assess trade-offs and develop adaptable systems is essential for meeting changing data needs.
+Al abordar tanto los aspectos estratégicos como tácticos, los Arquitectos de Datos llenan el vacío entre los requerimientos funcionales y los requerimientos técnicos. Su capacidad para evaluar compensaciones y desarrollar sistemas adaptables es esencial para satisfacer las necesidades de datos.
 
-At last, Data Architects empower organizations to effectively utilize their data resources, driving business value and innovation.
+Por último, los Arquitectos de Datos capacitan a las organizaciones para utilizar efectivamente sus recursos de datos, impulsando el valor comercial y la innovación.
 
 ### TL;DR
 
-A Data Architect designs the structure of data storage, organization, and utilization to ensure data quality and flexibility. They focus on strategy and tactics, collaborating closely with data engineers to implement the architecture. Understanding the data engineering lifecycle and common challenges is key to adding business value.
+Un Arquitecto de Datos diseña la estructura de almacenamiento, organización y utilización de datos para garantizar la calidad y flexibilidad de los mismos. Se enfocan en estrategia y tácticas, colaborando estrechamente con ingenieros de datos para implementar la arquitectura. Comprender el ciclo de vida de la ingeniería de datos y los desafíos comunes es clave para agregar el valor empresarial necesario.
 
