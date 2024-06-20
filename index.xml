@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thedatafixer.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>¿Por qué ser un Arquitecto de Datos?</title>
-      <link>https://thedatafixer.xyz/posts/por-que-ser-un-arquitecto-de-datos/</link>
+      <link>https://thedatafixer.xyz/posts/arquitecto-datos/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://thedatafixer.xyz/posts/por-que-ser-un-arquitecto-de-datos/</guid>
+      <guid>https://thedatafixer.xyz/posts/arquitecto-datos/</guid>
       <description>Es crucial que los datos sean accesibles y reutilizables para la sociedad y la industria. Hoy en día, es esencial que los datos puedan ser accedidos y reutilizados no solo por profesionales, sino también por usuarios regulares, como aquellos que utilizan las redes sociales e intentan descargar su propia información.
 Tareas como crear, guardar, ingerir, transformar, procesar y visualizar datos requieren tiempo y esfuerzo. Además, mantener la seguridad, ejecutar la administración, realizar operaciones, detallar la orquestación, preservar buenas prácticas de ingeniería de software y definir la estrategia de arquitectura de datos son aspectos críticos del ecosistema de datos.</description>
     </item>
@@ -37,6 +37,16 @@ Mi propósito es compartir mi conocimiento con la comunidad interesada en el fas
 Si crees que falta agregar o editar algo, puedes hacer un comentario al final de esta publicación, o de igual manera puedes contactarme de la forma que se te haga más fácil.</description>
     </item>
     
+    
+    <item>
+      <title>Usos</title>
+      <link>https://thedatafixer.xyz/usos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thedatafixer.xyz/usos/</guid>
+      <description>Debido a que me fascina todo lo que es FOSS (Free and Open Source Software), quisiera compartir las herramientas y ajustes que tengo en mi computadora personal.
+La razón principal por la cual hago esto es porque a mi me hubiera encantado saber en su momento el proceso de personalizar la apariencia de interfaz de usuario para hacerla lo más visualmente atractiva y lo más eficiente posible, y es por ello que lo pongo público.</description>
+    </item>
     
   </channel>
 </rss>
