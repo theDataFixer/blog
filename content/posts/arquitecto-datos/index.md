@@ -14,7 +14,7 @@ De todos estos puntos, quiero centrarme en la arquitectura de datos. Hay varios 
 
 Si tienes experiencia trabajando con datos, es posible que hayas notado que a veces un Analista de Datos realiza tareas típicamente realizadas por un Ingeniero de Datos, o viceversa. De manera similar, un Científico de Datos puede estar enfocado únicamente en consultas SQL y paneles para una empresa. Esta variación en roles a menudo depende de la madurez de los datos de la empresa, organización o proyecto.
 
-![](./dataarch.jpg)
+&nbsp;
 
 ### ¿Qué es un Arquitecto de Datos?
 
@@ -49,7 +49,7 @@ Funcionan como diseñadores, desarrollando sistemas necesarios para todo el cicl
 
 Un arquitecto de datos analiza los pros y los contras, diseña con agilidad y agrega valor al negocio.
 
-![](./dataperson.jpg)
+&nbsp;
 
 ### ¿Y qué NO es un Arquitecto de Datos?
 
@@ -70,7 +70,7 @@ A menudo, los interesados pueden no tener una comprensión clara de con qué est
 
 Es cierto que un ingeniero de datos es capaz de manejar todas estas tareas, pero como se mencionó anteriormente, los arquitectos de datos operan a un nivel más alto de abstracción. Además, aunque no soy un experto en construcción, entiendo que un ingeniero civil podría cumplir con las funciones de un arquitecto. Entonces, ¿por qué existen los arquitectos? Porque los arquitectos se centran en la estrategia y la táctica, mientras que los ingenieros dan vida a los diseños.
 
-![](./why.jpg)
+&nbsp;
 
 Un ingeniero de datos tiene la tarea de crear, probar y mantener la arquitectura de datos. Escriben scripts para extraer, cargar y transformar datos de diversas fuentes para crear una solución de datos, colaborando estrechamente con un arquitecto de datos para implementar la arquitectura planificada.
 
@@ -121,7 +121,7 @@ Y seguramente no haría:
 * Fabricar el medicamento
 * Gestionar la administración del hospital
 
-![](./doctor.jpg)
+&nbsp;
 
 Pero ¿qué pasa con los ingenieros de datos? ¿Las expectativas no están claras? Lo que pasa, es que ellos pueden:
 

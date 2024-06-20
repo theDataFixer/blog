@@ -95,8 +95,8 @@ menu:
     - name: ~$whoami
       url: /whoami/
       weight: 7
-    - name: dotfiles
-      url: https://github.com/theDataFixer/dotfiles/
+    - name: Usos
+      url: /usos/
       weight: 5
     - name: Data For Dummies
       url: /datafordummies/
