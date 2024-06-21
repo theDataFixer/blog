@@ -1,6 +1,6 @@
 ---
-title: "Las Consecuencias de NO Modelar tus Datos"
-date: 2024-05-27
+title: "¿Por qué es tan 'Complicado' Modelar Datos?"
+date: 2024-06-01
 summary: 
 tags: ["data modeling", "modelado de datos"]
 draft: true
@@ -27,6 +27,9 @@ crecimiento de enfoques alternativos como AI y ML
 perdida de precision, inconsistencia y falta de integridad de datos, impacto en la eficiencia operativa y competitivdad
 decisiones basadas en informacion incorrecta: ejemplos concretos de errores criticos. Ineficiencia operativa aumento de costos, reduccion de productividad. Riesgos para la seguirdad y cumplimiento: vulnerabilidades de seguridad, incumplimiento de regulaciones.
 
+### Complicaciones al no modelar, roadblocks, etc
+
+
 ### Ejemplos de casos reales o casos de estudio
 caso 1 empresa financiera problemas y soluciones
 caso 2 hospital impacto en la atencion al paciente
@@ -39,3 +42,16 @@ capacitacion y formacion: cursos y recursos utiles
 impelemtancion de politicas: monitore y actualizacion continua
 
 ### Conclusiones
+
+
+
+### NOTAS
+
+- Agregar info de libros
+
+** the data warehouse toolkit: go with fundamentals
+
+
+- Agregar info de articulos
+
+
